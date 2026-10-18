@@ -1,0 +1,5951 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Ang Mo Kio-Hougang Pinetree RN",
+        "address": "572 Hougang St 51 #01-31",
+        "postalCode": "530572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8874850986399,
+          1.378270724882904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Buangkok Vale RN",
+        "address": "981D Buangkok Cres #01-07",
+        "postalCode": "537981"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8793331947142,
+          1.380452307929524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Buangkok Park RN",
+        "address": "985A Buangkok Cres #01-06",
+        "postalCode": "531985"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8800662696869,
+          1.381195248487927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Cheng San Diamond RN",
+        "address": "507 AMK Ave 8 #01-2722",
+        "postalCode": "560507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8501574847044,
+          1.374431399335043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Fernvale River RN",
+        "address": "414B Fernvale Link #01-06",
+        "postalCode": "792414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8795743146957,
+          1.390019617839054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Vista RN",
+        "address": "309B Ang Mo Kio Ave 1 #01-01",
+        "postalCode": "563309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8463100135139,
+          1.364647456411906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee ARC RN",
+        "address": "404 Ang Mo Kio Ave 10 #01-645",
+        "postalCode": "560404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854726492538,
+          1.361677670608536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Care RN",
+        "address": "321 Ang Mo Kio Ave 1 #01-1555",
+        "postalCode": "560321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8483963341709,
+          1.365117670928736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Centraville RN",
+        "address": "714, Ang Mo Kio Ave 6,#01-4018",
+        "postalCode": "560714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8462315244797,
+          1.371096497809468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Evergreen RN",
+        "address": "344 Ang Mo Kio Ave 3 #01-2218",
+        "postalCode": "560344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8492648393978,
+          1.36797705108685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Garden View RN",
+        "address": "220 Ang Mo Kio Ave 1 #01-797",
+        "postalCode": "560220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8405188832536,
+          1.365588335930647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Heartlands RN",
+        "address": "418 Ang Mo Kio Ave 10 #01-1053",
+        "postalCode": "560418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854043379775,
+          1.364946013779112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Horizon RN",
+        "address": "470 Ang Mo Kio Ave 10 #01-926",
+        "postalCode": "560470"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8566942207035,
+          1.364098079194025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Jubilee RN",
+        "address": "325 Ang Mo Kio Ave 3 #01-1910",
+        "postalCode": "560325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8468874013863,
+          1.367899869568226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee Palm View RN",
+        "address": "225 Ang Mo Kio Ave 1 #01-567",
+        "postalCode": "560225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8381500074636,
+          1.367396127768607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Bishan East Zone '5' RC",
+        "address": "145 Bishan St 11 #01-99",
+        "postalCode": "570145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8542844956701,
+          1.344886009124616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Thomson Sin Ming Garden RC",
+        "address": "406 Sin Ming Ave #01-233",
+        "postalCode": "570406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8340935001691,
+          1.3629445537469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh Central Zone '1' RN",
+        "address": "58 Lor 4 Toa Payoh #01-31/33",
+        "postalCode": "310058"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8505246405647,
+          1.336746255373663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh Central Zone '2' RN",
+        "address": "179 Toa Payoh Central #01-462",
+        "postalCode": "310179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8500928785156,
+          1.333900999763312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh Central Zone '4' RN",
+        "address": "99C Lor 2 Toa Payoh #01-21",
+        "postalCode": "312099"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8474493560302,
+          1.339016129617543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh Central Zone '5' RN",
+        "address": "157 Lor 1 Toa Payoh #01-1191",
+        "postalCode": "310157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8454528617383,
+          1.332206263212489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh East Zone '5' RN",
+        "address": "255 Kim Keat Ave #01-134",
+        "postalCode": "310255"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8577615459231,
+          1.331659373468797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh East Zone '1' RN",
+        "address": "225 Lor 8 Toa Payoh #01-52",
+        "postalCode": "310225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8559141627423,
+          1.339507531355659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh East Zone '2' RN",
+        "address": "228 Lor 8 Toa Payoh #01-146",
+        "postalCode": "310228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8587796618375,
+          1.339148800252314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh East Zone '7' RN",
+        "address": "50 Lor 5 Toa Payoh #01-63",
+        "postalCode": "310050"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8526929016017,
+          1.336989889331905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh Crest RN",
+        "address": "131 Lor 1 Toa Payoh #02-02",
+        "postalCode": "310131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8432888456413,
+          1.337984588826065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh View RN",
+        "address": "122 Lor 2 Toa Payoh #01-12",
+        "postalCode": "310122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8462811963057,
+          1.339805239615545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Selegie-Waterloo RN",
+        "address": "271 Queen St #04-03",
+        "postalCode": "180271"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8539910047731,
+          1.30093267323152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Crawford RN",
+        "address": "461 Crawford Lane #02-75/77",
+        "postalCode": "190461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8608693518577,
+          1.305104174150729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "King George's Avenue RN",
+        "address": "804 King George's Ave #03-166",
+        "postalCode": "200804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8607920246802,
+          1.307875079170636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Beach Road RN",
+        "address": "12 North Bridge Rd #01-3960",
+        "postalCode": "190012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8627814782923,
+          1.304310427273832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kelantan RN",
+        "address": "25 Jalan Berseh #02-148",
+        "postalCode": "200025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8582215105207,
+          1.306215164354309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Jalan Besar Boon Keng Ville RN",
+        "address": "8 Upper Boon Keng Road #01-04",
+        "postalCode": "380008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8706905856641,
+          1.312707294755106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Jalan Besar Upper Boon Keng RN",
+        "address": "2C Upp Boon Keng Rd #01-668",
+        "postalCode": "383002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8717370056644,
+          1.313127969044793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kolam Ayer Geylang Bahru RN",
+        "address": "56 Geylang Bahru #01-3589",
+        "postalCode": "330056"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8682952926223,
+          1.323645147739973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Havelock View RN",
+        "address": "51 Havelock Road #01-27",
+        "postalCode": "161051"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8276797204819,
+          1.289946184564526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Beo Crescent RN",
+        "address": "26 Jalan Klinik #01-32",
+        "postalCode": "160026"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8284540240921,
+          1.288171345385611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Chin Swee-Hong Lim RN",
+        "address": "34 Upp Cross St #02-144A",
+        "postalCode": "050034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8423033408461,
+          1.286235214831497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Delta Indus RN",
+        "address": "3 Delta Avenue #01-32",
+        "postalCode": "160003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8273345231317,
+          1.291698334803547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Jalan Kukoh RN",
+        "address": "8 Jalan Kukoh #04-37",
+        "postalCode": "162008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8394070605943,
+          1.287377626822412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kreta Ayer RN",
+        "address": "333 Kreta Ayer Road #03-16",
+        "postalCode": "080333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8424634010201,
+          1.280748336812734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Whampoa Lorong Limau RC",
+        "address": "76 Lor Limau #01-07",
+        "postalCode": "320076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.854232129189,
+          1.325024278861667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Whampoa McNair RC",
+        "address": "111 McNair Rd #01-225",
+        "postalCode": "320111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8582727280635,
+          1.321303988394461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Jalan Besar Bendemeer RC",
+        "address": "22 Boon Keng Rd #01-09",
+        "postalCode": "330022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8614037951587,
+          1.318176426750386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Whampoa Drive RC",
+        "address": "116 Jalan Tenteram #01-05",
+        "postalCode": "320116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8612363694804,
+          1.327699937045262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Fernvale Coral RN",
+        "address": "412A Fernvale Rd #01-13",
+        "postalCode": "791412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8779060588617,
+          1.389231236417085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Fernvale Zone A RN",
+        "address": "472B Fernvale Street # 01-43",
+        "postalCode": "792472"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.881104301377,
+          1.396771770496765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Fernvale Zone B RN",
+        "address": "468B Fernvale Link #01-547",
+        "postalCode": "792468"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8780103910391,
+          1.39745479369412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Fernvale Zone K RN",
+        "address": "457A Sengkang West Rd #01-352",
+        "postalCode": "792451"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8745474116656,
+          1.394298933662674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Fernvale Spring View RN",
+        "address": "406B Fernvale Rd #01-49",
+        "postalCode": "792406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.87432292478,
+          1.388428690261392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kebun Baru Spring RN",
+        "address": "134 Ang Mo Kio Avenue 3 #01-1699/1695",
+        "postalCode": "560134"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8422497373814,
+          1.372053182460395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kebun Baru Grove RN",
+        "address": "154 Ang Mo Kio Avenue 5 #01-3112/3114",
+        "postalCode": "560154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8412309575159,
+          1.376260673879765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kebun Baru Heights RN",
+        "address": "106 Ang Mo Kio Avenue 4 #01-166",
+        "postalCode": "560106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8374860618511,
+          1.371933703234903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kebun Baru Link RN",
+        "address": "177 Ang Mo Kio Ave 4 #01-901",
+        "postalCode": "560177"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8381230548251,
+          1.375838271396531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kebun Baru View RN",
+        "address": "112 Ang Mo Kio Ave 4 #01-301",
+        "postalCode": "560112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8357665657406,
+          1.371278651455192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Vista Oasis @ Bidadari RN",
+        "address": "107A Bidadari Park Drive #01 -270",
+        "postalCode": "341107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.872399131107,
+          1.334779767862864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Brickworks RN",
+        "address": "3 Jalan Bukit Merah #01-5054",
+        "postalCode": "150003"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8070005167375,
+          1.287133554639335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Lengkok Bahru RN",
+        "address": "49 Hoy Fatt Rd #01-101/103",
+        "postalCode": "150049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8117141196728,
+          1.287489050018589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Mei Ling RN",
+        "address": "150 Mei Ling St #01-65",
+        "postalCode": "141150"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8036992985747,
+          1.294903078546949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kampong Tiong Bahru West RN",
+        "address": "109 Jalan Bukit Merah #01-1748",
+        "postalCode": "160109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8260869161225,
+          1.279426714350229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Mt Faber Zone 'A' RN",
+        "address": "5 Telok Blangah Cres #01-452",
+        "postalCode": "090005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8192203848022,
+          1.27872402905423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Mt Faber Zone 'B' RN",
+        "address": "22 Telok Blangah Cres #01-53",
+        "postalCode": "090022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8198219169021,
+          1.276559215997678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Mt Faber Zone 'C' RN",
+        "address": "34 Telok Blangah Way #01-1080",
+        "postalCode": "090034"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8224809884473,
+          1.273517800574647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Redhill Gardens RN",
+        "address": "82 Redhill Lane #01-65",
+        "postalCode": "150082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8194747709198,
+          1.287415991089298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Redhill Rise RN",
+        "address": "75B Redhill Lane #01-64",
+        "postalCode": "152075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.815878776808,
+          1.288480937798467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Buona Vista Commonwealth Close RN",
+        "address": "83B Commonwealth Close",
+        "postalCode": "143083"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.801041117911,
+          1.304914141640754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Buona Vista Commonwealth Drive RN",
+        "address": "53 Commonwealth Drive #01-556",
+        "postalCode": "142053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7965817391021,
+          1.302058782570133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Dawson RN",
+        "address": "95A Dawson Road #01-02",
+        "postalCode": "142095"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8119429859388,
+          1.296089005887497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Delta RC",
+        "address": "61 Strathmore Ave #01-01",
+        "postalCode": "141061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8109792121235,
+          1.293997750075626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Bukit Merah View Zone 'A' RC",
+        "address": "119 Bukit Merah View #01-61",
+        "postalCode": "152119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.820830012818,
+          1.283527551664666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Bukit Merah View Zone 'B' RC",
+        "address": "129 Bukit Merah View #01-148",
+        "postalCode": "150129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8238192079618,
+          1.283578705058982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Henderson Crescent RN",
+        "address": "105 Henderson Crescent #01-05",
+        "postalCode": "150105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8223568447108,
+          1.290214201769466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Henderson CityVue RC",
+        "address": "96A Henderson Road #01-56",
+        "postalCode": "151096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8219472603591,
+          1.287988788366508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Pek Kio RN",
+        "address": "48 Dorset Rd #01-113",
+        "postalCode": "210048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8506228128472,
+          1.314241210195872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Jalan Membina RN",
+        "address": "8 Kim Tian Place #01-53",
+        "postalCode": "163008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8272367153632,
+          1.283029656104111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kampong Tiong Bahru East RN",
+        "address": "136 Jalan Bukit Merah #01-1354",
+        "postalCode": "160136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8275372467706,
+          1.278287639075264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kim Tian West RN",
+        "address": "118A Jalan Membina #01-143",
+        "postalCode": "161118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8256452163112,
+          1.28142028197973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Telok Blangah Depot Heights RN",
+        "address": "104C Depot Rd #01-02",
+        "postalCode": "103104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.811571533865,
+          1.28054679818301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Telok Blangah Parcview RN",
+        "address": "92 Telok Blangah St 31 #01-257",
+        "postalCode": "100092"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8076446585231,
+          1.276214635341448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Telok Blangah 'Blangah Court' RN",
+        "address": "47 Telok Blangah Dr #01-97",
+        "postalCode": "100047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8100969536232,
+          1.272044271037642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Telok Blangah 'Blangah Square' RN",
+        "address": "75 Telok Blangah Dr #01-290",
+        "postalCode": "100075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8086953478791,
+          1.27489670852233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Telok Blangah Dover Rd RN",
+        "address": "5 Dover Cres #01-14",
+        "postalCode": "130005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7826372009359,
+          1.304060127643129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Yio Chu Kang Court RN",
+        "address": "212 AMK Ave 3 #01-1488",
+        "postalCode": "560212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8416180726031,
+          1.368803594184696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Yio Chu Kang Concord Ville RN",
+        "address": "121 AMK Ave 3 #01-1715",
+        "postalCode": "560121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8435159813106,
+          1.369705634783257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Yio Chu Kang Oasis RN",
+        "address": "616 AMK AVE 5 #01-1027",
+        "postalCode": "560616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8387766591821,
+          1.377467469962828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Fernvale CC",
+        "address": "21 Sengkang West Ave #01-01",
+        "postalCode": "797650"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.877039073044,
+          1.391722092792314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Ci Yuan CC",
+        "address": "51 Hougang Ave 9 #01-01",
+        "postalCode": "538776"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8829319300397,
+          1.375322537735674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Cheng San CC",
+        "address": "6 Ang Mo Kio St 53",
+        "postalCode": "569205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8493750246645,
+          1.371915234634771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Hwi Yoh CC (Void Deck)",
+        "address": "535 Serangoon North Ave 4 #01-179",
+        "postalCode": "550535"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8739802376354,
+          1.373806030935258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Ang Mo Kio CC",
+        "address": "795 Ang Mo Kio Ave 1",
+        "postalCode": "569976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8406851914611,
+          1.366861255273488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Teck Ghee CC",
+        "address": "861 Ang Mo Kio Ave 10",
+        "postalCode": "569734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8535605086277,
+          1.363106005257572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kebun Baru CC",
+        "address": "216 Ang Mo Kio Ave 4",
+        "postalCode": "569897"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8376124212941,
+          1.373007501602539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Yio Chu Kang CC",
+        "address": "50 Ang Mo Kio St 61",
+        "postalCode": "569163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8414504686704,
+          1.381325785670567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Bishan CC",
+        "address": "51 Bishan St 13",
+        "postalCode": "579799"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8507462048994,
+          1.349478346230655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Marymount CC",
+        "address": "191 Sin Ming Ave #01-01",
+        "postalCode": "575738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8412861688494,
+          1.362137571561742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Thomson CC",
+        "address": "194 Upper Thomson Road",
+        "postalCode": "574339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8363139796527,
+          1.351202992134877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh Central CC",
+        "address": "93 Toa Payoh Central",
+        "postalCode": "319194"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8502045427675,
+          1.334934520548422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh East CC",
+        "address": "160 Lorong 6 Toa Payoh",
+        "postalCode": "319380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8548484372016,
+          1.336315364964432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh South CC",
+        "address": "1999 Lorong 8 Toa Payoh",
+        "postalCode": "319258"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8593789746666,
+          1.334890374736527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Toa Payoh West CC",
+        "address": "200 Lorong 2 Toa Payoh",
+        "postalCode": "319642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8451058001388,
+          1.335221249794357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kampong Glam CC",
+        "address": "385 Beach Road",
+        "postalCode": "199581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8635978518025,
+          1.302795227115325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Jalan Besar CC",
+        "address": "69 Jellicoe Road",
+        "postalCode": "208737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8617865683514,
+          1.308004174711576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kolam Ayer CC",
+        "address": "1 Geylang Bahru Lane #01-01",
+        "postalCode": "339631"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8699195867526,
+          1.324060635348187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Geylang West CC",
+        "address": "1205 Upper Boon Keng Road",
+        "postalCode": "387311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8723878541104,
+          1.315691111066291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kreta Ayer CC",
+        "address": "28 Kreta Ayer Road",
+        "postalCode": "088995"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8430205222926,
+          1.281208198577837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Potong Pasir CC",
+        "address": "6 Potong Pasir Ave 2",
+        "postalCode": "358361"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8671516737261,
+          1.332633815456039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Bidadari CC",
+        "address": "11 Bidadari Park Drive #01-60",
+        "postalCode": "367803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8716700081919,
+          1.33873066388193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Kallang CC",
+        "address": "45 Boon Keng Road",
+        "postalCode": "339771"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8624012888067,
+          1.31801131952192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Whampoa CC",
+        "address": "300 Whampoa Drive",
+        "postalCode": "327737"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8572012109099,
+          1.324867492965702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Bukit Ho Swee RN",
+        "address": "94 Havelock Road #01-575",
+        "postalCode": "160094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8332335260923,
+          1.288213201125532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Buona Vista CC",
+        "address": "36 Holland Drive #01-01",
+        "postalCode": "270036"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7926404803258,
+          1.309183033138679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Henderson CC",
+        "address": "500 Bukit Merah View",
+        "postalCode": "159682"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8233153131407,
+          1.286010159391979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Pek Kio CC",
+        "address": "21 Gloucester Road",
+        "postalCode": "219458"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8513738449606,
+          1.313058655249113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Tanglin CC",
+        "address": "245 Whitley Road",
+        "postalCode": "297829"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8269051200673,
+          1.323406523887087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Cairnhill CC",
+        "address": "1 Anthony Road",
+        "postalCode": "229944"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8388827078064,
+          1.310387674550274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Queenstown CC",
+        "address": "365 Commonwealth Ave",
+        "postalCode": "149732"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8014866342131,
+          1.298963200533658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Leng Kee CC",
+        "address": "400 Lengkok Bahru",
+        "postalCode": "159049"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8146641088961,
+          1.289559089513162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Radin Mas CC",
+        "address": "51 Telok Blangah Crescent",
+        "postalCode": "098917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8198443889957,
+          1.275806470252735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Tiong Bahru CC",
+        "address": "67A Eu Chin St",
+        "postalCode": "169715"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8321965065365,
+          1.283049169922838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Tanjong Pagar CC",
+        "address": "101 Cantonment Road",
+        "postalCode": "089774"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8415842055679,
+          1.276166985796882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Telok Blangah CC",
+        "address": "450 Telok Blangah St 31",
+        "postalCode": "108943"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8078754257342,
+          1.274862657141187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Central",
+        "name": "Dover CC (Void Deck)",
+        "address": "Blk 1 Dover Road #01-300",
+        "postalCode": "130001"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7832731668167,
+          1.302525746948527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Elias View RN",
+        "address": "Blk 612 Elias Road #01-138",
+        "postalCode": "510612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9420210097383,
+          1.374629851012797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Brontosaur Park RN",
+        "address": "Blk 766 Pasir Ris Street 71 #01-308",
+        "postalCode": "510766"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9360008783569,
+          1.375947588670488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Green Oval Park RN",
+        "address": "Blk 706 Pasir Ris Drive 10 #01-157",
+        "postalCode": "510706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9382386989311,
+          1.380804458815312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Meridian RN",
+        "address": "Blk 753 Pasir Ris Street 71 #01-118",
+        "postalCode": "510753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9344823222992,
+          1.377156176976135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Atlantis RN",
+        "address": "Blk 741 Pasir Ris Street 71 #01-39",
+        "postalCode": "510741"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9363835369125,
+          1.377553846778826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Costa Ris RN",
+        "address": "527B Pasir Ris St 51 #01-717",
+        "postalCode": "512527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9477100690137,
+          1.368994531144321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Zone '7' RN",
+        "address": "207 Pasir Ris St 21 #01-356",
+        "postalCode": "510207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9622877614086,
+          1.366303329425134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Zone '4' RN",
+        "address": "484 Pasir Ris Dr 4 #01-367",
+        "postalCode": "510484"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9605578240163,
+          1.373603457553308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Zone '8' RN",
+        "address": "226 Pasir Ris St 21 #01-76",
+        "postalCode": "510226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9617258726466,
+          1.371012120626376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Zone '11' RN",
+        "address": "140 Pasir Ris St 11 #01-171",
+        "postalCode": "510140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9591810359715,
+          1.363948458990248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Eco Ris RN",
+        "address": "Blk 115 Pasir Ris St 11",
+        "postalCode": "510115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9548705710764,
+          1.368926570295379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Elias Rise RN",
+        "address": "Blk 520 Pasir Ris St 52",
+        "postalCode": "510520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9447563194755,
+          1.373432536212946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Coral Ris RN",
+        "address": "569 Pasir Ris St 51",
+        "postalCode": "510569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9491693310187,
+          1.369653123187826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Coral Heights RN",
+        "address": "560 Pasir Ris St 51",
+        "postalCode": "510560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9504228113278,
+          1.366764133732622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Coastar RN",
+        "address": "585 Pasir Ris St 53",
+        "postalCode": "510585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9473765634927,
+          1.375350847007753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Sunrise RN",
+        "address": "677 A Punggol Drive #01-800",
+        "postalCode": "821677"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9092041237276,
+          1.405289641608369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Raydew RN",
+        "address": "662D Edgedale Plains #01-712",
+        "postalCode": "824662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9180028366854,
+          1.401672559952281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Waterway Sunrise 1 RN",
+        "address": "655A Punggol East #01-700",
+        "postalCode": "821655"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9202177753168,
+          1.399338573879268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Seaview RN",
+        "address": "421B Northshore Drive #01-791",
+        "postalCode": "822421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9047047084346,
+          1.419246373674442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol BayVue RN",
+        "address": "323B Sumang Walk #01-933",
+        "postalCode": "822323"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8977615637127,
+          1.412057105742864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Matilda II RN",
+        "address": "229B Sumang Lane #01-300",
+        "postalCode": "822229"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8917955366215,
+          1.402883752339583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Jewel RN",
+        "address": "260A Punggol Way #01-303",
+        "postalCode": "821260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8966160879066,
+          1.404797137928791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Sapphirald RN",
+        "address": "268D Punggol Field #01-173",
+        "postalCode": "824268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8983589251033,
+          1.403313781113464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Seas RN",
+        "address": "211C Punggol Walk #01-645",
+        "postalCode": "823211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8996135596005,
+          1.400760492755734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Matilda I RN",
+        "address": "217C Sumang Walk #01-212",
+        "postalCode": "823217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8954941106681,
+          1.402358510003013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol Cresails RN",
+        "address": "209B Punggol Place #01 - 1288",
+        "postalCode": "822209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9009354065174,
+          1.39973051378134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Compassvale Ancilla RC",
+        "address": "279B Sengkang East Ave #01-545",
+        "postalCode": "542279"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8929860781822,
+          1.385415594504446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Compassvale Beacon RC",
+        "address": "211C Compassvale Lane #01-218",
+        "postalCode": "543211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8992911770264,
+          1.385144912257344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Compassvale Helm RN",
+        "address": "274A Compassvale Bow #01-533",
+        "postalCode": "541274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8905630709136,
+          1.381553553609417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Rivervale Arc RC",
+        "address": "180C Rivervale Cres #01-367",
+        "postalCode": "543180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9096604265293,
+          1.389491501761167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Compassvale Cape RN",
+        "address": "286C Compassvale Cres #01-103",
+        "postalCode": "543286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8964236860367,
+          1.398117867200827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Sengkang West Zone 'A' RN",
+        "address": "303B Anchorvale Link #01-92",
+        "postalCode": "542303"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8898487581342,
+          1.387423767595534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Sengkang West Zone 'K' RN",
+        "address": "326C Anchorvole Road #01-280",
+        "postalCode": "543326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8880654319942,
+          1.395717128404177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Sengkang West Zone E RN",
+        "address": "351 Anchorvale Road #01 - 06",
+        "postalCode": "540351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8866176251127,
+          1.393327865815169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Buangkok CC",
+        "address": "70 Compassvale Bow #01-25",
+        "postalCode": "544692"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8927210077455,
+          1.382981632033452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines Vista RN",
+        "address": "874 Tampines St 84 #01-13",
+        "postalCode": "520874"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9319447565705,
+          1.353712588984095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines Spring RN",
+        "address": "880 Tampines Ave 8 #01-278",
+        "postalCode": "520880"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9314788036679,
+          1.351326081588526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines Green Meadows RN",
+        "address": "519D Tampines Central 8 #01-87",
+        "postalCode": "524519"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9395939650273,
+          1.356207821027841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines North SunPlaza RN",
+        "address": "418 Tampines St 41 #01-72",
+        "postalCode": "520418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9473089490584,
+          1.358272213187106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East Zone 1 RN",
+        "address": "209 Tampines St 21 #01-1339",
+        "postalCode": "520209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9528322231023,
+          1.351917436475065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East Zone 2 RN",
+        "address": "216 Tampines St 23 #01-37",
+        "postalCode": "520216"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9527040181235,
+          1.35401799259079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East Zone 4 RN",
+        "address": "257 Tampines St 21 #01-208",
+        "postalCode": "520257"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9499397089116,
+          1.353760540128444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East Zone 5 RN",
+        "address": "270 Tampines St 21 #01-165",
+        "postalCode": "520270"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9486351749721,
+          1.349630110041707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East Zone 6 RN",
+        "address": "230B Tampines Street 24 #01-21",
+        "postalCode": "525230"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9507338970533,
+          1.355398484669523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East Zone 7 RN",
+        "address": "387 Tampines St 32 #01-87",
+        "postalCode": "520387"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9587762014261,
+          1.355303143667933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East Zone 8 RN",
+        "address": "364 Tampines Street 34 #01-133",
+        "postalCode": "520364"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9598734982921,
+          1.356938009521423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines North Zone '3' RN",
+        "address": "430 Tampines St 41 #01-525",
+        "postalCode": "520430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9501481941627,
+          1.359552580805391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines North Zone '4' RN",
+        "address": "450 Tampines St 42,#01-98",
+        "postalCode": "520450"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9516612745522,
+          1.357421260024702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines North Zone '7' RN",
+        "address": "498M Tampines St 45 #01-498",
+        "postalCode": "529498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.957741457309,
+          1.361890482304403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines North Zone '5' RN",
+        "address": "480 Tampines St 44 #01-257",
+        "postalCode": "520480"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9536130624485,
+          1.361898695462108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines North Zone '6' RN",
+        "address": "494B Tampines Ave 9 #01-458",
+        "postalCode": "520494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9527048975022,
+          1.363008289405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines-Changkat Zone '3' RN",
+        "address": "111 Tampines St 11 #01-217",
+        "postalCode": "521111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9474164646421,
+          1.346914713784628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines-Changkat Zone '4' RN",
+        "address": "285 Tampines St 22 #01-225",
+        "postalCode": "520285"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.952816059954,
+          1.350010741942631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines GreenCourt RN",
+        "address": "633B Tampines North Drive 2 #02-219",
+        "postalCode": "522633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9408110855947,
+          1.364685297117444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines DewFoliage RN",
+        "address": "647 Tampines Street 62 #01-02",
+        "postalCode": "520647"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9418244449784,
+          1.367392360539731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines GreenVerge RN",
+        "address": "623A Tampines Avenue 12 #02-61",
+        "postalCode": "521623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9402846511108,
+          1.361560379117165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines Greenridges RN",
+        "address": "605C Tampines St 61 #01-340",
+        "postalCode": "523605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9355624465659,
+          1.361872358822428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines Weaveview RN",
+        "address": "610C Tampines North Drive 1 #01-472",
+        "postalCode": "523610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9355583401576,
+          1.364417760020228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Elias CC",
+        "address": "93 Pasir Ris Drive 3",
+        "postalCode": "519498"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9425490674502,
+          1.378439311559019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris Central CC",
+        "address": "536 Pasir Ris Drive 1 #01-286",
+        "postalCode": "510536"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9498276302797,
+          1.370631438391105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Pasir Ris East CC",
+        "address": "1 Pasir Ris Drive 4, Singapore 519457",
+        "postalCode": "519457"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9594284394219,
+          1.368485527501331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "One Punggol CC",
+        "address": "1 Punggol Drive #04-05",
+        "postalCode": "828629"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9051549249232,
+          1.408728475961338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol 21 CC",
+        "address": "80 Punggol Field #01-01",
+        "postalCode": "828815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9135823414907,
+          1.393519715298798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Punggol West CC",
+        "address": "Blk 259C Punggol Field #01-47",
+        "postalCode": "823259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8956655320423,
+          1.404534085814557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Anchorvale CC",
+        "address": "59 Anchorvale Road",
+        "postalCode": "544965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8866942404779,
+          1.397083297925743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Rivervale CC",
+        "address": "2 Rivervale Close #01-01",
+        "postalCode": "544583"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9023503904399,
+          1.38514646288139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Sengkang CC",
+        "address": "2 Sengkang Square #01-01",
+        "postalCode": "545025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8940822761537,
+          1.39272027516125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines Central CC",
+        "address": "1 Tampines Walk #04-04, Our Tampines Hub",
+        "postalCode": "528523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9404081353108,
+          1.353133598288117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines Changkat CC",
+        "address": "13 Tampines St 11",
+        "postalCode": "529453"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9475498098061,
+          1.345849850368457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines East CC",
+        "address": "10, Tampines St 23",
+        "postalCode": "529341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9546204577829,
+          1.35335683374898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines North CC",
+        "address": "2 Tampines St 41",
+        "postalCode": "529204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9466026761619,
+          1.357364792739423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North East",
+        "name": "Tampines West CC",
+        "address": "5 Tampines Ave 3",
+        "postalCode": "529705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9356896377617,
+          1.348759501114116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Bukit Panjang Zone '10' RC",
+        "address": "441 Fajar Rd #01-458",
+        "postalCode": "670441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7708368845732,
+          1.383222191172856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Watten Hub",
+        "address": "Bougainvillea Park, 500 Dunearn Rd",
+        "postalCode": "289618"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Toh Yi RN",
+        "address": "4 Toh Yi Dr #01-217",
+        "postalCode": "590004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7745698235268,
+          1.338512067233299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Bukit Timah Zone 5 RC",
+        "address": "319 Clementi Ave 4 #01-85",
+        "postalCode": "120319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7647870228639,
+          1.317380237373826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Clementi Meadows RN",
+        "address": "306 Clementi Ave 4 #01-465",
+        "postalCode": "120306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7659012680503,
+          1.321438260573971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Gateway View RN",
+        "address": "204 Clementi Ave 6 #01-09",
+        "postalCode": "120204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7632316898441,
+          1.320985886652734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Trivelis RN",
+        "address": "311B Clementi Ave 4 #01-17",
+        "postalCode": "122311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7656494463672,
+          1.319446690771787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Ridges RN",
+        "address": "312A Clementi Ave 4 #01-171",
+        "postalCode": "121312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7644412202647,
+          1.319088944261794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Ghim Moh Gardens RN",
+        "address": "17 Ghim Moh Rd #01-75",
+        "postalCode": "270017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7874322265274,
+          1.309892258713428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Zhenghua-Segar Meadows RN",
+        "address": "456 Segar Rd #01-117",
+        "postalCode": "670456"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7704423534548,
+          1.3875453701888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Zhenghua-Senja View RN",
+        "address": "635B Senja Rd #02-269",
+        "postalCode": "672635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7577104678676,
+          1.386602752375775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Marsiling Zone '2' RN",
+        "address": "8 Marsiling Dr #01-18",
+        "postalCode": "730008"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.777182721751,
+          1.441345041074568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Marsiling Zone '3' RN",
+        "address": "123 Marsiling Rise #01-98",
+        "postalCode": "730123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.778949135126,
+          1.439112423022226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Marsiling Zone '7' RN",
+        "address": "206 Marsiling Dr #01-298",
+        "postalCode": "730206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.77336982144,
+          1.445407295786023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Marsiling Zone '9' RN",
+        "address": "185 Woodlands St 13 #02-671",
+        "postalCode": "732185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7762941099958,
+          1.435856503831984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Woodgrove Zone '3' RC",
+        "address": "890A Woodlands Drive 50 #01 -277",
+        "postalCode": "731890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7932164711473,
+          1.438282211583782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Woodgrove Zone '4' RN",
+        "address": "572B Woodlands Ave 1 #01-836",
+        "postalCode": "732572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7896089110681,
+          1.431606894279233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Chong Pang Zone '1' RC",
+        "address": "108 Yishun Ring Rd #01-301/305",
+        "postalCode": "760108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8290719711769,
+          1.432323550809123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Chong Pang Zone '5' RC",
+        "address": "157 Yishun St 11 #01-140",
+        "postalCode": "760157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8340913734784,
+          1.432217900968717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Nee Soon Central Zone '3' RC",
+        "address": "701 Yishun Ave 5 #01-314",
+        "postalCode": "760701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8288352353483,
+          1.429954557061192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Yishun Grove RN",
+        "address": "671 Yishun Ave 4 #01-02",
+        "postalCode": "760671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8415812712964,
+          1.419191163140909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Yishun Sunshine RN",
+        "address": "259 Yishun St 22 #01-67",
+        "postalCode": "760259"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8389647185999,
+          1.434980063585643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Jade Dew RN",
+        "address": "455 Yishun St 41 #01-43",
+        "postalCode": "760455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8443839809654,
+          1.419980451717836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Orchid Vista RN",
+        "address": "431A Yishun Avenue 1 #01-507",
+        "postalCode": "761431"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8472882371097,
+          1.419606824978973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Yishun Floral RC",
+        "address": "440 Yishun Ave 11 #01-466",
+        "postalCode": "760440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8461330585198,
+          1.422331396005031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Forest Meadow RN",
+        "address": "471A Yishun St 42 #02-309",
+        "postalCode": "761471"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.852905361663,
+          1.425924489172675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Nee Soon South Zone ‘H’ RN",
+        "address": "508B Yishun Avenue 4 #01-52",
+        "postalCode": "762508"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8398399367186,
+          1.41429103817708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Admiralty Zone '9' RN",
+        "address": "693C Woodlands Avenue 6 #01-759",
+        "postalCode": "733693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8044298837988,
+          1.438099633087429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Canberra Skylife RN",
+        "address": "365A Sembawang Crescent #01-101",
+        "postalCode": "751365"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8170276898481,
+          1.444052813768111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Canberra Zone '8' RN",
+        "address": "362 Sembawang Crescent #01-11",
+        "postalCode": "750362"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8140731669746,
+          1.447477934778545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Canberra NorthWoods RN",
+        "address": "784C Woodlands Rise #01-38",
+        "postalCode": "733784"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8051624184654,
+          1.445930972224704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Canberra Zone 10 RN",
+        "address": "782A Woodlands Crescent #01-311",
+        "postalCode": "731782"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8026612946303,
+          1.447466503204837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Naval Base Forward RN",
+        "address": "462 Sembawang Drive #01-201",
+        "postalCode": "750462"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8140351932643,
+          1.45445319201859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "East Canberra Zone 1 RN",
+        "address": "107 Canberra Street #01-567",
+        "postalCode": "751107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8329792409641,
+          1.449904746220004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Sembawang Central Zone B RN",
+        "address": "510B Wellington Circle #01-77",
+        "postalCode": "752510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8208836317678,
+          1.453608954893003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Nee Soon Link CC",
+        "address": "413 Yishun Ring Road #01-1887",
+        "postalCode": "760413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8464282273058,
+          1.425010743131353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Zhenghua CC",
+        "address": "1 Segar Road",
+        "postalCode": "677738"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7718085813902,
+          1.386807457641798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Senja-Cashew CC",
+        "address": "101 Bukit Panjang Road",
+        "postalCode": "679910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7646762509678,
+          1.381638133193397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Bukit Timah CC",
+        "address": "20 Toh Yi Drive",
+        "postalCode": "596569"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7717094593513,
+          1.340444374847296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Ulu Pandan CC",
+        "address": "170 Ghim Moh Road #01-01",
+        "postalCode": "279621"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7897231883314,
+          1.312214305347446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Bukit Panjang CC",
+        "address": "8 Pending Road",
+        "postalCode": "678295"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7705588026539,
+          1.376450755554642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Marsiling CC",
+        "address": "2 Marsiling Drive #01-45",
+        "postalCode": "730002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7766947503977,
+          1.439938287586006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Woodgrove CC",
+        "address": "353 Woodlands Ave 1 #01-753",
+        "postalCode": "730353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7851624488421,
+          1.431816487071708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Fuchun CC",
+        "address": "1 Woodlands St 31",
+        "postalCode": "738581"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7748501250456,
+          1.429586606495955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Yew Tee CC",
+        "address": "20 Chua Chu Kang St 52 #01-01",
+        "postalCode": "689286"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.744790526006,
+          1.394833124559626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Yew Tee Zone 9 RC",
+        "address": "690A Choa Chu Kang Crescent #01-104",
+        "postalCode": "681690"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7515399415587,
+          1.402776276343755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Yew Tee Zone 10 RC",
+        "address": "639 Choa Chu Kang Street 64 #01-31",
+        "postalCode": "680639"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7489980324117,
+          1.397821953101781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Limbang Park RN",
+        "address": "505 Chua Chu Kang Street 51, #01-191",
+        "postalCode": "680505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7421408853388,
+          1.389074186390439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Limbang View RN",
+        "address": "549 Chua Chu Kang Street 52, #01-13",
+        "postalCode": "680549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7427471082855,
+          1.393390171981235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Limbang Green RN",
+        "address": "561 Chua Chu Kang North 6, #01-82",
+        "postalCode": "680561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7449571716265,
+          1.396326453324138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Stagmont View RN",
+        "address": "753 Chua Chu Kang North 5, #01-213",
+        "postalCode": "680753"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7469435947791,
+          1.392340906278617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Stagmont Park RN",
+        "address": "785 Chua Chu Kang Drive #01-223",
+        "postalCode": "680785"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.748044130582,
+          1.394855245081225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Chong Pang Zone 2 RC",
+        "address": "120 Yishun Ring Road",
+        "postalCode": "760120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8293478009859,
+          1.434821388337223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Nee Soon Central CC",
+        "address": "1 Northpoint Drive #01-201",
+        "postalCode": "768019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8361776509722,
+          1.427902889913047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Nee Soon East CC",
+        "address": "1 Yishun Ave 9",
+        "postalCode": "768893"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8385982235699,
+          1.430771055149032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Nee Soon South CC",
+        "address": "30 Yishun St 81",
+        "postalCode": "768455"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8347662265862,
+          1.415186858620795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "ACE The Place CC",
+        "address": "120 Woodlands Ave 1",
+        "postalCode": "739069"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7922407676256,
+          1.427492789543658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Canberra CC",
+        "address": "2 Sembawang Crescent",
+        "postalCode": "757632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8194737311238,
+          1.445044137018635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Sembawang CC",
+        "address": "117B Canberra Crescent #01-370",
+        "postalCode": "752117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8301595881415,
+          1.444795697880211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Woodlands Galaxy CC",
+        "address": "31 Woodlands Ave 6",
+        "postalCode": "738991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8026575517165,
+          1.439008031250475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "North West",
+        "name": "Woodlands CC",
+        "address": "1 Woodlands St 81",
+        "postalCode": "738526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7882442100488,
+          1.439815123874102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Eunos Zone '1' RN",
+        "address": "609 Bedok Reservoir Rd #01-658",
+        "postalCode": "470609"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9123648550766,
+          1.331839214592192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Eunos Zone '2' RN",
+        "address": "616 Bedok Reservoir Rd #01-1100",
+        "postalCode": "470616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9151377591255,
+          1.331903960955805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Eunos Zone '3' RN",
+        "address": "627 Bedok Reservoir Rd #01-1608",
+        "postalCode": "470627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9155993191437,
+          1.33396186689746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kaki Bukit Ville RN",
+        "address": "504 Bedok North St 3 #01-144",
+        "postalCode": "460504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9323893590436,
+          1.331880003054789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kaki Bukit Bloom RN",
+        "address": "546 Bedok North St 3 #01-1436",
+        "postalCode": "460546"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9255958402878,
+          1.330820059192435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kaki Bukit Garden RN",
+        "address": "526 Bedok North Street 3 #01-490",
+        "postalCode": "460526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.92912981542,
+          1.334215518781341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kaki Bukit Green RN",
+        "address": "517 Bedok North Ave 2 #01-155",
+        "postalCode": "460517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9292045360116,
+          1.331089066029576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kaki Bukit Park RN",
+        "address": "550 Bedok North Ave 1 #01-496/498",
+        "postalCode": "460550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9266174029073,
+          1.332693179527918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Paya Lebar Zone '2' RC",
+        "address": "101 Hougang Ave 1 #01-1153/1151",
+        "postalCode": "530101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.891360573947,
+          1.354937478005636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Paya Lebar Zone 7 RN",
+        "address": "132 Lorong Ah Soo #01-412",
+        "postalCode": "530132"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8863299131595,
+          1.350852996790973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hwi Yoh Garden RC",
+        "address": "123 Serangoon North Ave 1 #01-149",
+        "postalCode": "550123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8725935511918,
+          1.366958512980815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Boundary Ville RC",
+        "address": "228 Serangoon Ave 4 #01-49",
+        "postalCode": "550228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8702598533937,
+          1.356364014957245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hwi Yoh Court RC",
+        "address": "103 Serangoon North Ave 1 #01-757",
+        "postalCode": "550103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8702689311561,
+          1.370655487027874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Bedok Bunga Merah RC",
+        "address": "37 Bedok South Ave 2 #01-445",
+        "postalCode": "460037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9398472138616,
+          1.321906636172868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Bedok Orchid RN",
+        "address": "10C Bedok South Ave 2 #01-562",
+        "postalCode": "462010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9362235860816,
+          1.322094235642828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Fengshan Acacia RN",
+        "address": "187B Bedok North Street 4 #01 -52",
+        "postalCode": "462187"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9400884012029,
+          1.330381466074705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Fengshan Pine RN",
+        "address": "111 Bedok North Rd #01-325",
+        "postalCode": "460111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9354586441414,
+          1.331455740281891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Fengshan Cedar RN",
+        "address": "93 Bedok North Ave 4 #01-1461",
+        "postalCode": "460093"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9413097343375,
+          1.332888999313476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kampong Chai Chee Rainbow Ville RN",
+        "address": "430A Bedok North Road #01-421",
+        "postalCode": "461430"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9329909952738,
+          1.329700004988613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Ping Yi Greens RN",
+        "address": "808A Chai Chee Road #01-116",
+        "postalCode": "461808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9238481940606,
+          1.326870445653303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Ansar RN",
+        "address": "32 Chai Chee Avenue #01-218",
+        "postalCode": "461032"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9250010845097,
+          1.323717283877492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Ping An RN",
+        "address": "61 Chai Chee Rd #01-840",
+        "postalCode": "460061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9207381888836,
+          1.325108719282373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Ping An Green RN",
+        "address": "43 Chai Chee St #01-70",
+        "postalCode": "461043"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9256548103762,
+          1.328346685030775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hougang Zone 1 RN",
+        "address": "2 Hougang Ave 3 #01-292",
+        "postalCode": "530002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8931845409031,
+          1.363137207532554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hougang Zone 2 RN",
+        "address": "306 Hougang Ave 5 #01-359",
+        "postalCode": "530306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8954965604428,
+          1.367197636812796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hougang Zone 3 RN",
+        "address": "332 Hougang Ave 5 #01-222",
+        "postalCode": "530332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8978203838687,
+          1.368405831943537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hougang Zone 4 RN",
+        "address": "341 Hougang Ave 7 #01-457",
+        "postalCode": "530341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.898588733978,
+          1.370445490241515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hougang Zone 5 RN",
+        "address": "705 Hougang Ave 2 #01-247",
+        "postalCode": "530705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.888263962373,
+          1.365649034850779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hougang Zone 6 RN",
+        "address": "836 Hougang Central #01-539",
+        "postalCode": "530836"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8907953347619,
+          1.370083449711094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Balam RN",
+        "address": "31 Balam Rd #01-109",
+        "postalCode": "370031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8854079935951,
+          1.329682323431534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "MacPherson Seasons RN",
+        "address": "82B Circuit Road #01-26",
+        "postalCode": "372082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8894014567555,
+          1.32372337837322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "MacPherson Aljunied Crescent Zone '2' RN",
+        "address": "96 Aljunied Cres #01-481",
+        "postalCode": "380096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8854233569775,
+          1.321656497869169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "MacPherson Zone 'A' RN",
+        "address": "42 Circuit Rd #01-531",
+        "postalCode": "370042"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.886293541726,
+          1.326849239677329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "MacPherson Zone 'B' RN",
+        "address": "65 Circuit Rd #01-381",
+        "postalCode": "370065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.887203611284,
+          1.327400310020149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "MacPherson Zone 'E' RN",
+        "address": "90 Pipit Road #01-131",
+        "postalCode": "370090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8865213282861,
+          1.323379652137275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Braddell Heights Zone 'B' RC",
+        "address": "6 Lor Lew Lian #01-118",
+        "postalCode": "531006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8773264492957,
+          1.349438107959056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Eunos Village RN",
+        "address": "38A Eunos Road 2 #01-340",
+        "postalCode": "401038"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9001581140281,
+          1.321177619176237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Eunos Crescent RC",
+        "address": "10 Eunos Cres #01-2733",
+        "postalCode": "400010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.902720513959,
+          1.322286558630672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Ubi Grove RN (new RN Centre)",
+        "address": "358D Ubi Road 3 #01-208",
+        "postalCode": "404358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8999332166859,
+          1.329466941349518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Marine Terrace Breeze RC",
+        "address": "20 Marine Terrace #01-124",
+        "postalCode": "440020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9150670203215,
+          1.303715887288522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Old Airport RN",
+        "address": "54 Cassia Cres #01-137",
+        "postalCode": "390054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8846781981189,
+          1.310048005510802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Punggol CC",
+        "address": "3 Hougang Ave 6",
+        "postalCode": "538808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8919119303212,
+          1.374369988219469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Eunos CC",
+        "address": "180 Bedok Reservoir Road",
+        "postalCode": "479220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9152300250942,
+          1.332626783121991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Hougang CC",
+        "address": "35 Hougang Ave 3",
+        "postalCode": "538840"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8927279945726,
+          1.364751243812483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kaki Bukit CC",
+        "address": "670 Bedok North St 3",
+        "postalCode": "469627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9268572027348,
+          1.333358009261465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Paya Lebar Kovan CC",
+        "address": "Blk 207 Hougang St 21",
+        "postalCode": "530207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8863135310425,
+          1.35759831007159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Aljunied CC (Void Deck)",
+        "address": "Blk 110 Hougang Ave 1 #01-1048",
+        "postalCode": "530110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8896145852647,
+          1.354805424248316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "The Serangoon CC",
+        "address": "10 Serangoon North Ave 2",
+        "postalCode": "555877"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8741742167752,
+          1.36996170692484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Bedok CC",
+        "address": "850 New Upper Changi Road",
+        "postalCode": "467352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9360636483703,
+          1.324224481162681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Siglap CC",
+        "address": "151 Bedok South Road",
+        "postalCode": "460151"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9468001465131,
+          1.317322244857148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Fengshan CC",
+        "address": "20 Bedok North St 2",
+        "postalCode": "469644"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9368154178622,
+          1.330723342500432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kampong Chai Chee CC",
+        "address": "11 Bedok North St 1, Heartbeat @Bedok",
+        "postalCode": "469662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.932129515964,
+          1.326864385535107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Siglap South CC",
+        "address": "6 Palm Road",
+        "postalCode": "456441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9306234665326,
+          1.313158953246566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Changi Simei CC",
+        "address": "10 Simei St 2",
+        "postalCode": "529915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9551677668283,
+          1.344965635419699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Braddell Heights CC",
+        "address": "50 Serangoon Ave 2 #01-02",
+        "postalCode": "556129"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.870408875865,
+          1.351690381546186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Geylang Serai CC",
+        "address": "1 Engku Aman Turn #01-01, Wisma Geylang Serai",
+        "postalCode": "408528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8967884183523,
+          1.316494157439073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Lengkong Tiga RN",
+        "address": "109 Lengkong Tiga #01-273",
+        "postalCode": "410109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9106975310816,
+          1.324580762449695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Kampong Ubi CC",
+        "address": "10 Jalan Ubi",
+        "postalCode": "409075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9007501235604,
+          1.317846441026898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "MacPherson CC",
+        "address": "400 Paya Lebar Way",
+        "postalCode": "379131"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8846383700013,
+          1.323473899118196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Marine Drive Garden RC",
+        "address": "61 Marine Drive",
+        "postalCode": "440061"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9087515316223,
+          1.303093485695588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Joo Chiat CC",
+        "address": "405 Joo Chiat Road",
+        "postalCode": "427633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9042184353152,
+          1.307420014126264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Katong CC",
+        "address": "51 Kampong Arang Road",
+        "postalCode": "438178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8848084939037,
+          1.300446657937457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South East",
+        "name": "Mountbatten CC",
+        "address": "87 Jalan Satu",
+        "postalCode": "390087"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8869183001058,
+          1.309204537033517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Bukit Batok Zone '1' RN",
+        "address": "116 Bukit Batok West Ave 6 #01-220",
+        "postalCode": "650116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7463810732923,
+          1.349628664525118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Bukit Batok Zone '2' RN",
+        "address": "104 Bukit Batok Central #01-283",
+        "postalCode": "650104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7472582186053,
+          1.348995002555493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Bukit Batok Zone '3' RN",
+        "address": "125 Bukit Batok Central #01-389",
+        "postalCode": "650125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7471584962905,
+          1.35153484935942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Bukit Batok East Zone '7' RN",
+        "address": "210 Bukit Batok St 21 #01-202",
+        "postalCode": "650210"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7499560958499,
+          1.34548008232168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Sunshine RN",
+        "address": "489A Chua Chu Kang Ave 5 #01-193",
+        "postalCode": "681489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7403600096891,
+          1.375600948184221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Axis Colours RN",
+        "address": "807B Chua Chu Kang Ave 1 #01-530",
+        "postalCode": "682807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7451708827274,
+          1.376044181650929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Bukit Gombak Sunshine RC",
+        "address": "531 Bukit Batok St 51 #01-122",
+        "postalCode": "650531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7504097157564,
+          1.356289239445525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Chua Chu Kang Zone '1' RN",
+        "address": "163 Jalan Teck Whye #01-220",
+        "postalCode": "680163"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7569258244138,
+          1.380910276713725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Chua Chu Kang Zone '2' RN",
+        "address": "15 Teck Whye Lane #01-147",
+        "postalCode": "680015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7547387163996,
+          1.379133572567952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Clementi Spring RN",
+        "address": "359 Clementi Ave 2 #01-301",
+        "postalCode": "120359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7698547810068,
+          1.313492924255782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Clementi Green RN",
+        "address": "343 Clementi Ave 5 #01-216",
+        "postalCode": "120343"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.770934449602,
+          1.317908525731415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Jurong Central Zone 'A' RN",
+        "address": "475 Jurong West St 41 #01-384",
+        "postalCode": "640475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7250872263781,
+          1.348098041072745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Jurong Central Zone 'D' RN",
+        "address": "340 Jurong East Ave 1 #01-1662",
+        "postalCode": "600340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.730687889533,
+          1.350126616515329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Jurong Central Zone 'F' RN",
+        "address": "320 Jurong East St 31 #01-80",
+        "postalCode": "600320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7307086750427,
+          1.348757860212912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Yuhua Zone '1' RN",
+        "address": "260 Jurong East St 24 #01-547",
+        "postalCode": "600260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7402228689089,
+          1.34372175616441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Yuhua Zone '2' RC",
+        "address": "240 Jurong East St 21 #01-368",
+        "postalCode": "600240"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7415731998953,
+          1.341067510964955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Yuhua Zone '7' RN",
+        "address": "107 Jurong East St 13 #01-240",
+        "postalCode": "600107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7380933521199,
+          1.337754568475875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Yuhua Zone '10' @ TGV RN",
+        "address": "282 Toh Guan Rd #01-231",
+        "postalCode": "600282"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7471112539228,
+          1.339605829896912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "West Ridges RN",
+        "address": "441C Bukit Batok West Ave 8 #01- 923",
+        "postalCode": "653441"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7387044847214,
+          1.355568167738437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "West Rock West Quarry RN",
+        "address": "461A Bukit Batok West Ave 8 #01-706",
+        "postalCode": "651461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7399731600669,
+          1.35492017502697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Hong Kah North Zone '1' RN",
+        "address": "419 Bukit Batok West Ave 2 #01-213",
+        "postalCode": "650419"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7461963779915,
+          1.361947382181469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "West Plains Le Quest RN",
+        "address": "464A Bukit Batok West Ave 8 #01-906",
+        "postalCode": "651464"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7417496817024,
+          1.357370214143069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "West Edge RN",
+        "address": "439C Bukit Batok West Ave 8 #01 - 945",
+        "postalCode": "653439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7388575244064,
+          1.357628612959266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Jurong Spring Zone 'E' RC",
+        "address": "527 Jurong West St 52 #01-315",
+        "postalCode": "640527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7164173898649,
+          1.347884171935017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Jurong Spring Zone 'F' RC",
+        "address": "555 Jurong West St 42 #01-371",
+        "postalCode": "640555"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7188531456144,
+          1.353668604514571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Taman Jurong Zone 'A' RN",
+        "address": "153 Yung Ho Rd #01-45",
+        "postalCode": "610153"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7210437652409,
+          1.327483279923517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Taman Jurong Zone 'C' RN",
+        "address": "359 Yung An Rd #01-79",
+        "postalCode": "610359"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7214010184157,
+          1.336111403478695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Taman Jurong Zone 'D' RN",
+        "address": "353 Kang Ching Rd #01-39",
+        "postalCode": "610353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7205282008337,
+          1.339636047016206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Taman Jurong Zone 'E' RN",
+        "address": "337B Tah Ching Rd #51-01",
+        "postalCode": "612337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7223955654859,
+          1.337450347372853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Taman Jurong Zone 'F' RN",
+        "address": "175B Yung Kuang Rd #01-11324",
+        "postalCode": "612175"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7210433814235,
+          1.332833592826985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Taman Jurong Zone 'G' RN",
+        "address": "138B Yuan Ching Rd #01-121",
+        "postalCode": "612138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7243041477644,
+          1.32841510984309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Boon Lay Meadow-Grove RN",
+        "address": "183A Boon Lay Dr #01-712",
+        "postalCode": "641183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7097377001759,
+          1.348617948018033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Boon Lay Zone 'C' RN",
+        "address": "260 Boon Lay Dr #01-527",
+        "postalCode": "640260"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.708033296536,
+          1.345093736075019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Boon Lay Zone 'D' RN",
+        "address": "190 Boon Lay Dr #01-224",
+        "postalCode": "640190"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7118504259263,
+          1.34507676207704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Nanyang Zone '3' RC",
+        "address": "726 Jurong West Ave 5 #01-232",
+        "postalCode": "640726"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6971345893265,
+          1.3459430568526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Nanyang Zone '6' RN",
+        "address": "705 Jurong West St 71 #01-78",
+        "postalCode": "640705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6946509903976,
+          1.340912429457731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Teban Place RN",
+        "address": "20 Teban Gardens Rd #01-107",
+        "postalCode": "600020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7385183842001,
+          1.323783550417066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Ayer Rajah CC",
+        "address": "150 Pandan Gardens",
+        "postalCode": "609335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7476984267228,
+          1.320961547327516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Hillview CC",
+        "address": "1 Hillview Rise #01-01",
+        "postalCode": "667970"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7642663820927,
+          1.361967253416799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Chua Chu Kang CC",
+        "address": "35 Teck Whye Ave",
+        "postalCode": "688892"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.751903879838,
+          1.381155291170583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Brickland CC",
+        "address": "811A Chua Chu Kang Avenue 7 #01-657",
+        "postalCode": "681811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7459297845303,
+          1.373730848190214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Tengah CC",
+        "address": "No. 119 Plantation Crescent",
+        "postalCode": "690119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7345000424129,
+          1.356752427301931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Keat Hong CC",
+        "address": "2 Chua Chu Kang Loop #01-01",
+        "postalCode": "689687"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7449493592743,
+          1.384095872355775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Bukit Batok East CC",
+        "address": "23 Bukit Batok East Ave 4",
+        "postalCode": "659841"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7584802662112,
+          1.349090086100352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Jurong Green CC",
+        "address": "6 Jurong West Ave 1",
+        "postalCode": "649520"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7253976807254,
+          1.350547171512804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Yuhua CC",
+        "address": "90 Boon Lay Way",
+        "postalCode": "609958"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.737115832566,
+          1.339958513193786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Hong Kah North CC",
+        "address": "30 Bukit Batok St 31",
+        "postalCode": "659440"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7494868198429,
+          1.359033397249325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Nanyang CC",
+        "address": "60 Jurong West St 91",
+        "postalCode": "649040"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6924351631345,
+          1.342428289441089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Jurong Spring CC",
+        "address": "8 Jurong West St 52",
+        "postalCode": "649296"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7181556955453,
+          1.348330172368306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Gek Poh Ville CC",
+        "address": "Blk 760 Jurong West St 74 #01-08",
+        "postalCode": "640760"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.6999340958944,
+          1.349412382559544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Boon Lay CC",
+        "address": "10 Boon Lay Place",
+        "postalCode": "649882"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7113816191467,
+          1.348349166433201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "The Frontier CC",
+        "address": "60 Jurong West Central 3 #01-01",
+        "postalCode": "648346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7045268763662,
+          1.340561245964539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "Taman Jurong CC",
+        "address": "1 Yung Sheng Rd",
+        "postalCode": "618495"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7217015637389,
+          1.335296561353875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "South West",
+        "name": "West Coast CC",
+        "address": "2 Clementi West St 2",
+        "postalCode": "129605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.7648320714911,
+          1.302645563429425
+        ]
+      }
+    }
+  ]
+}

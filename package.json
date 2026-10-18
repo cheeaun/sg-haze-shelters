@@ -1,0 +1,17 @@
+{
+  "name": "sg-haze-shelters",
+  "version": "1.0.0",
+  "description": "Daily scraper for Singapore community haze shelters from the People's Association list (PDF).",
+  "type": "commonjs",
+  "scripts": {
+    "scrape": "node src/scrape.js",
+    "changelog": "node scripts/changelog.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
