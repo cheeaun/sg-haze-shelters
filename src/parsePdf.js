@@ -1,13 +1,5 @@
 const { PDFParse } = require('pdf-parse');
 
-const DISTRICTS = new Set([
-  'Central',
-  'North East',
-  'North West',
-  'South East',
-  'South West',
-]);
-
 function groupLines(textContent) {
   const lines = new Map();
   for (const item of textContent.items) {
@@ -42,7 +34,7 @@ async function parseShelters(buffer) {
       const name = columnText(line.items, 100, 280);
       const address = columnText(line.items, 280, 500);
       const postal = columnText(line.items, 500, 9999);
-      if (!DISTRICTS.has(district)) continue;
+      if (!district || district === 'District') continue;
       if (!/^\d{6}$/.test(postal)) continue;
       if (!name) continue;
       shelters.push({ district, name, address, postalCode: postal });

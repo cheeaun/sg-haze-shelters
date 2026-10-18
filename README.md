@@ -19,7 +19,7 @@ npm run scrape      # fetch PDF, parse, geocode, write data/
 npm run changelog   # regenerate CHANGELOG.md from git history
 ```
 
-## Automation
+See [CHANGELOG.md](./CHANGELOG.md) for history of changes.
 
 A GitHub Actions workflow (`.github/workflows/scrape.yml`) runs daily,
 scrapes the PDF, regenerates the changelog, and commits changes when the
