@@ -11,6 +11,13 @@ changes through git with an auto-generated changelog.
 - [`data/shelters.geojson`](./data/shelters.geojson) — GeoJSON `FeatureCollection` of shelter points.
 - [`data/geocode-cache.json`](./data/geocode-cache.json) — cached postal-code geocoding results.
 
+## References
+
+- [Few use Singapore haze shelters, but visitors welcome respite from heat](https://www.reddit.com/r/singapore/comments/1x8aa8o/few_use_singapore_haze_shelters_but_visitors/) — Reddit, Oct 2026
+- [Singapore Ready To Step Up Haze Response](https://www.nea.gov.sg/media/news/news/index/singapore-ready-to-step-up-haze-response) — NEA, 09 Oct 2026
+- [Haze Situation Update (14 October 2026)](https://www.nea.gov.sg/media/news/advisories/index/haze-situation-update-14-october-2026) — NEA, 14 Oct 2026
+- [Few use Singapore haze shelters, but visitors welcome respite from heat](https://www.channelnewsasia.com/singapore/singapore-haze-shelters-heat-visitors-community-centres-6468211) — CNA, 17 Oct 2026
+
 ## Usage
 
 ```bash
