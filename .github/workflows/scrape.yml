@@ -36,4 +36,3 @@ jobs:
             git commit -m "chore: update haze shelters data"
             git push
           fi
-EOF
