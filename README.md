@@ -9,7 +9,7 @@ changes through git with an auto-generated changelog.
 
 - [`data/shelters.json`](./data/shelters.json) — full list with district, name, address, postal code, and coordinates.
 - [`data/shelters.geojson`](./data/shelters.geojson) — GeoJSON `FeatureCollection` of shelter points.
-- [`data/geocode-cache.json`](./data/geocode-cache.json) — cached postal-code geocoding results.
+- [`data/shelters.csv`](./data/shelters.csv) — CSV export of the same list.
 
 ## References
 

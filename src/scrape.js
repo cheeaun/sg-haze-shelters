@@ -47,6 +47,18 @@ function writeOutputs(shelters, sourcePdf) {
     })),
   };
   fs.writeFileSync(path.join(DATA_DIR, 'shelters.geojson'), JSON.stringify(geojson, null, 2) + '\n');
+
+  const header = ['district', 'name', 'address', 'postalCode', 'latitude', 'longitude'];
+  const csvRows = [header.join(',')];
+  for (const s of shelters) {
+    const vals = [s.district, s.name, s.address, s.postalCode, s.latitude, s.longitude];
+    csvRows.push(vals.map((v) => {
+      const str = v == null ? '' : String(v);
+      if (/[",\n]/.test(str)) return `"${str.replace(/"/g, '""')}"`;
+      return str;
+    }).join(','));
+  }
+  fs.writeFileSync(path.join(DATA_DIR, 'shelters.csv'), csvRows.join('\n') + '\n');
 }
 
 async function main() {
