@@ -6,6 +6,7 @@
   "scripts": {
     "scrape": "node src/scrape.js",
     "changelog": "node scripts/changelog.js",
+    "changelog:diff": "node scripts/changelog.js --diff",
     "test": "node --test"
   },
   "dependencies": {

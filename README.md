@@ -2,8 +2,8 @@
 
 Daily scraper for Singapore's community haze shelters, sourced from the
 [People's Association](https://www.pa.gov.sg/our-network/community-clubs/shelters/)
-list (PDF). Produces structured `JSON` and `GeoJSON` outputs and tracks
-changes through git with an auto-generated changelog.
+list (PDF). Produces structured `JSON` and `GeoJSON` outputs and tracks which
+shelters are added, removed, or changed over time.
 
 ## Data
 
@@ -22,11 +22,22 @@ changes through git with an auto-generated changelog.
 
 ```bash
 npm install
-npm run scrape      # fetch PDF, parse, geocode, write data/
-npm run changelog   # regenerate CHANGELOG.md from git history
+npm run scrape          # fetch PDF, parse, geocode, write data/
+npm run changelog       # rebuild CHANGELOG.md from data/shelters.json history
+npm run changelog:diff  # prepend one entry diffing the working tree vs HEAD
 ```
 
-See [CHANGELOG.md](./CHANGELOG.md) for history of changes.
+`changelog` rebuilds the whole history from scratch, one entry per day (days
+with no shelter changes are recorded as "No changes."). `changelog:diff`
+compares the current `data/shelters.json` against the last commit and prepends
+a single dated entry — also "No changes." when the shelter list is unchanged.
+The daily workflow uses the diff mode.
+
+Full mode needs complete git history and fails fast on a shallow clone; diff
+mode only needs `HEAD`, so it runs quickly even with `fetch-depth: 1`.
+
+See [CHANGELOG.md](./CHANGELOG.md) for a record of shelters added, removed,
+or changed over time.
 
 A GitHub Actions workflow (`.github/workflows/scrape.yml`) runs daily,
 scrapes the PDF, regenerates the changelog, and commits changes when the

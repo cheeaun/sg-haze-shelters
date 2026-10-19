@@ -1,8 +1,11 @@
 # Changelog
 
-Generated from git history.
+Data changes to the community haze shelter list (`data/shelters.json`).
+
+## 2026-10-19
+
+- No changes.
 
 ## 2026-10-18
 
-- feat: add CSV output (3366c69)
-
+- Initial snapshot — 372 shelters.
