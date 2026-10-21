@@ -2,6 +2,381 @@
 
 Data changes to the community haze shelter list (`data/shelters.json`).
 
+## 2026-10-21
+
+- **Removed** Ang Mo Kio-Hougang Pinetree RN — 572 Hougang St 51 #01-31, Central 530572
+- **Removed** Buangkok Vale RN — 981D Buangkok Cres #01-07, Central 537981
+- **Removed** Buangkok Park RN — 985A Buangkok Cres #01-06, Central 531985
+- **Removed** Cheng San Diamond RN — 507 AMK Ave 8 #01-2722, Central 560507
+- **Removed** Fernvale River RN — 414B Fernvale Link #01-06, Central 792414
+- **Removed** Teck Ghee Vista RN — 309B Ang Mo Kio Ave 1 #01-01, Central 563309
+- **Removed** Teck Ghee ARC RN — 404 Ang Mo Kio Ave 10 #01-645, Central 560404
+- **Removed** Teck Ghee Care RN — 321 Ang Mo Kio Ave 1 #01-1555, Central 560321
+- **Removed** Teck Ghee Centraville RN — 714, Ang Mo Kio Ave 6,#01-4018, Central 560714
+- **Removed** Teck Ghee Evergreen RN — 344 Ang Mo Kio Ave 3 #01-2218, Central 560344
+- **Removed** Teck Ghee Garden View RN — 220 Ang Mo Kio Ave 1 #01-797, Central 560220
+- **Removed** Teck Ghee Heartlands RN — 418 Ang Mo Kio Ave 10 #01-1053, Central 560418
+- **Removed** Teck Ghee Horizon RN — 470 Ang Mo Kio Ave 10 #01-926, Central 560470
+- **Removed** Teck Ghee Jubilee RN — 325 Ang Mo Kio Ave 3 #01-1910, Central 560325
+- **Removed** Teck Ghee Palm View RN — 225 Ang Mo Kio Ave 1 #01-567, Central 560225
+- **Removed** Bishan East Zone '5' RC — 145 Bishan St 11 #01-99, Central 570145
+- **Removed** Thomson Sin Ming Garden RC — 406 Sin Ming Ave #01-233, Central 570406
+- **Removed** Toa Payoh Central Zone '1' RN — 58 Lor 4 Toa Payoh #01-31/33, Central 310058
+- **Removed** Toa Payoh Central Zone '2' RN — 179 Toa Payoh Central #01-462, Central 310179
+- **Removed** Toa Payoh Central Zone '4' RN — 99C Lor 2 Toa Payoh #01-21, Central 312099
+- **Removed** Toa Payoh Central Zone '5' RN — 157 Lor 1 Toa Payoh #01-1191, Central 310157
+- **Removed** Toa Payoh East Zone '5' RN — 255 Kim Keat Ave #01-134, Central 310255
+- **Removed** Toa Payoh East Zone '1' RN — 225 Lor 8 Toa Payoh #01-52, Central 310225
+- **Removed** Toa Payoh East Zone '2' RN — 228 Lor 8 Toa Payoh #01-146, Central 310228
+- **Removed** Toa Payoh East Zone '7' RN — 50 Lor 5 Toa Payoh #01-63, Central 310050
+- **Removed** Toa Payoh Crest RN — 131 Lor 1 Toa Payoh #02-02, Central 310131
+- **Removed** Toa Payoh View RN — 122 Lor 2 Toa Payoh #01-12, Central 310122
+- **Removed** Selegie-Waterloo RN — 271 Queen St #04-03, Central 180271
+- **Removed** Crawford RN — 461 Crawford Lane #02-75/77, Central 190461
+- **Removed** King George's Avenue RN — 804 King George's Ave #03-166, Central 200804
+- **Removed** Beach Road RN — 12 North Bridge Rd #01-3960, Central 190012
+- **Removed** Kelantan RN — 25 Jalan Berseh #02-148, Central 200025
+- **Removed** Jalan Besar Boon Keng Ville RN — 8 Upper Boon Keng Road #01-04, Central 380008
+- **Removed** Jalan Besar Upper Boon Keng RN — 2C Upp Boon Keng Rd #01-668, Central 383002
+- **Removed** Kolam Ayer Geylang Bahru RN — 56 Geylang Bahru #01-3589, Central 330056
+- **Removed** Havelock View RN — 51 Havelock Road #01-27, Central 161051
+- **Removed** Beo Crescent RN — 26 Jalan Klinik #01-32, Central 160026
+- **Removed** Chin Swee-Hong Lim RN — 34 Upp Cross St #02-144A, Central 050034
+- **Removed** Delta Indus RN — 3 Delta Avenue #01-32, Central 160003
+- **Removed** Jalan Kukoh RN — 8 Jalan Kukoh #04-37, Central 162008
+- **Removed** Kreta Ayer RN — 333 Kreta Ayer Road #03-16, Central 080333
+- **Removed** Whampoa Lorong Limau RC — 76 Lor Limau #01-07, Central 320076
+- **Removed** Whampoa McNair RC — 111 McNair Rd #01-225, Central 320111
+- **Removed** Jalan Besar Bendemeer RC — 22 Boon Keng Rd #01-09, Central 330022
+- **Removed** Whampoa Drive RC — 116 Jalan Tenteram #01-05, Central 320116
+- **Removed** Fernvale Coral RN — 412A Fernvale Rd #01-13, Central 791412
+- **Removed** Fernvale Zone A RN — 472B Fernvale Street # 01-43, Central 792472
+- **Removed** Fernvale Zone B RN — 468B Fernvale Link #01-547, Central 792468
+- **Removed** Fernvale Zone K RN — 457A Sengkang West Rd #01-352, Central 792451
+- **Removed** Fernvale Spring View RN — 406B Fernvale Rd #01-49, Central 792406
+- **Removed** Kebun Baru Spring RN — 134 Ang Mo Kio Avenue 3 #01-1699/1695, Central 560134
+- **Removed** Kebun Baru Grove RN — 154 Ang Mo Kio Avenue 5 #01-3112/3114, Central 560154
+- **Removed** Kebun Baru Heights RN — 106 Ang Mo Kio Avenue 4 #01-166, Central 560106
+- **Removed** Kebun Baru Link RN — 177 Ang Mo Kio Ave 4 #01-901, Central 560177
+- **Removed** Kebun Baru View RN — 112 Ang Mo Kio Ave 4 #01-301, Central 560112
+- **Removed** Vista Oasis @ Bidadari RN — 107A Bidadari Park Drive #01 -270, Central 341107
+- **Removed** Brickworks RN — 3 Jalan Bukit Merah #01-5054, Central 150003
+- **Removed** Lengkok Bahru RN — 49 Hoy Fatt Rd #01-101/103, Central 150049
+- **Removed** Mei Ling RN — 150 Mei Ling St #01-65, Central 141150
+- **Removed** Kampong Tiong Bahru West RN — 109 Jalan Bukit Merah #01-1748, Central 160109
+- **Removed** Mt Faber Zone 'A' RN — 5 Telok Blangah Cres #01-452, Central 090005
+- **Removed** Mt Faber Zone 'B' RN — 22 Telok Blangah Cres #01-53, Central 090022
+- **Removed** Mt Faber Zone 'C' RN — 34 Telok Blangah Way #01-1080, Central 090034
+- **Removed** Redhill Gardens RN — 82 Redhill Lane #01-65, Central 150082
+- **Removed** Redhill Rise RN — 75B Redhill Lane #01-64, Central 152075
+- **Removed** Buona Vista Commonwealth Close RN — 83B Commonwealth Close, Central 143083
+- **Removed** Buona Vista Commonwealth Drive RN — 53 Commonwealth Drive #01-556, Central 142053
+- **Removed** Dawson RN — 95A Dawson Road #01-02, Central 142095
+- **Removed** Delta RC — 61 Strathmore Ave #01-01, Central 141061
+- **Removed** Bukit Merah View Zone 'A' RC — 119 Bukit Merah View #01-61, Central 152119
+- **Removed** Bukit Merah View Zone 'B' RC — 129 Bukit Merah View #01-148, Central 150129
+- **Removed** Henderson Crescent RN — 105 Henderson Crescent #01-05, Central 150105
+- **Removed** Henderson CityVue RC — 96A Henderson Road #01-56, Central 151096
+- **Removed** Pek Kio RN — 48 Dorset Rd #01-113, Central 210048
+- **Removed** Jalan Membina RN — 8 Kim Tian Place #01-53, Central 163008
+- **Removed** Kampong Tiong Bahru East RN — 136 Jalan Bukit Merah #01-1354, Central 160136
+- **Removed** Kim Tian West RN — 118A Jalan Membina #01-143, Central 161118
+- **Removed** Telok Blangah Depot Heights RN — 104C Depot Rd #01-02, Central 103104
+- **Removed** Telok Blangah Parcview RN — 92 Telok Blangah St 31 #01-257, Central 100092
+- **Removed** Telok Blangah 'Blangah Court' RN — 47 Telok Blangah Dr #01-97, Central 100047
+- **Removed** Telok Blangah 'Blangah Square' RN — 75 Telok Blangah Dr #01-290, Central 100075
+- **Removed** Telok Blangah Dover Rd RN — 5 Dover Cres #01-14, Central 130005
+- **Removed** Yio Chu Kang Court RN — 212 AMK Ave 3 #01-1488, Central 560212
+- **Removed** Yio Chu Kang Concord Ville RN — 121 AMK Ave 3 #01-1715, Central 560121
+- **Removed** Yio Chu Kang Oasis RN — 616 AMK AVE 5 #01-1027, Central 560616
+- **Removed** Fernvale CC — 21 Sengkang West Ave #01-01, Central 797650
+- **Removed** Ci Yuan CC — 51 Hougang Ave 9 #01-01, Central 538776
+- **Removed** Cheng San CC — 6 Ang Mo Kio St 53, Central 569205
+- **Removed** Hwi Yoh CC (Void Deck) — 535 Serangoon North Ave 4 #01-179, Central 550535
+- **Removed** Ang Mo Kio CC — 795 Ang Mo Kio Ave 1, Central 569976
+- **Removed** Teck Ghee CC — 861 Ang Mo Kio Ave 10, Central 569734
+- **Removed** Kebun Baru CC — 216 Ang Mo Kio Ave 4, Central 569897
+- **Removed** Yio Chu Kang CC — 50 Ang Mo Kio St 61, Central 569163
+- **Removed** Bishan CC — 51 Bishan St 13, Central 579799
+- **Removed** Marymount CC — 191 Sin Ming Ave #01-01, Central 575738
+- **Removed** Thomson CC — 194 Upper Thomson Road, Central 574339
+- **Removed** Toa Payoh Central CC — 93 Toa Payoh Central, Central 319194
+- **Removed** Toa Payoh East CC — 160 Lorong 6 Toa Payoh, Central 319380
+- **Removed** Toa Payoh South CC — 1999 Lorong 8 Toa Payoh, Central 319258
+- **Removed** Toa Payoh West CC — 200 Lorong 2 Toa Payoh, Central 319642
+- **Removed** Kampong Glam CC — 385 Beach Road, Central 199581
+- **Removed** Jalan Besar CC — 69 Jellicoe Road, Central 208737
+- **Removed** Kolam Ayer CC — 1 Geylang Bahru Lane #01-01, Central 339631
+- **Removed** Geylang West CC — 1205 Upper Boon Keng Road, Central 387311
+- **Removed** Kreta Ayer CC — 28 Kreta Ayer Road, Central 088995
+- **Removed** Potong Pasir CC — 6 Potong Pasir Ave 2, Central 358361
+- **Removed** Bidadari CC — 11 Bidadari Park Drive #01-60, Central 367803
+- **Removed** Kallang CC — 45 Boon Keng Road, Central 339771
+- **Removed** Whampoa CC — 300 Whampoa Drive, Central 327737
+- **Removed** Bukit Ho Swee RN — 94 Havelock Road #01-575, Central 160094
+- **Removed** Buona Vista CC — 36 Holland Drive #01-01, Central 270036
+- **Removed** Henderson CC — 500 Bukit Merah View, Central 159682
+- **Removed** Pek Kio CC — 21 Gloucester Road, Central 219458
+- **Removed** Tanglin CC — 245 Whitley Road, Central 297829
+- **Removed** Cairnhill CC — 1 Anthony Road, Central 229944
+- **Removed** Queenstown CC — 365 Commonwealth Ave, Central 149732
+- **Removed** Leng Kee CC — 400 Lengkok Bahru, Central 159049
+- **Removed** Radin Mas CC — 51 Telok Blangah Crescent, Central 098917
+- **Removed** Tiong Bahru CC — 67A Eu Chin St, Central 169715
+- **Removed** Tanjong Pagar CC — 101 Cantonment Road, Central 089774
+- **Removed** Telok Blangah CC — 450 Telok Blangah St 31, Central 108943
+- **Removed** Dover CC (Void Deck) — Blk 1 Dover Road #01-300, Central 130001
+- **Removed** Elias View RN — Blk 612 Elias Road #01-138, North East 510612
+- **Removed** Brontosaur Park RN — Blk 766 Pasir Ris Street 71 #01-308, North East 510766
+- **Removed** Green Oval Park RN — Blk 706 Pasir Ris Drive 10 #01-157, North East 510706
+- **Removed** Pasir Ris Meridian RN — Blk 753 Pasir Ris Street 71 #01-118, North East 510753
+- **Removed** Pasir Ris Atlantis RN — Blk 741 Pasir Ris Street 71 #01-39, North East 510741
+- **Removed** Costa Ris RN — 527B Pasir Ris St 51 #01-717, North East 512527
+- **Removed** Pasir Ris Zone '7' RN — 207 Pasir Ris St 21 #01-356, North East 510207
+- **Removed** Pasir Ris Zone '4' RN — 484 Pasir Ris Dr 4 #01-367, North East 510484
+- **Removed** Pasir Ris Zone '8' RN — 226 Pasir Ris St 21 #01-76, North East 510226
+- **Removed** Pasir Ris Zone '11' RN — 140 Pasir Ris St 11 #01-171, North East 510140
+- **Removed** Eco Ris RN — Blk 115 Pasir Ris St 11, North East 510115
+- **Removed** Elias Rise RN — Blk 520 Pasir Ris St 52, North East 510520
+- **Removed** Coral Ris RN — 569 Pasir Ris St 51, North East 510569
+- **Removed** Coral Heights RN — 560 Pasir Ris St 51, North East 510560
+- **Removed** Coastar RN — 585 Pasir Ris St 53, North East 510585
+- **Removed** Punggol Sunrise RN — 677 A Punggol Drive #01-800, North East 821677
+- **Removed** Punggol Raydew RN — 662D Edgedale Plains #01-712, North East 824662
+- **Removed** Punggol Waterway Sunrise 1 RN — 655A Punggol East #01-700, North East 821655
+- **Removed** Punggol Seaview RN — 421B Northshore Drive #01-791, North East 822421
+- **Removed** Punggol BayVue RN — 323B Sumang Walk #01-933, North East 822323
+- **Removed** Matilda II RN — 229B Sumang Lane #01-300, North East 822229
+- **Removed** Punggol Jewel RN — 260A Punggol Way #01-303, North East 821260
+- **Removed** Punggol Sapphirald RN — 268D Punggol Field #01-173, North East 824268
+- **Removed** Punggol Seas RN — 211C Punggol Walk #01-645, North East 823211
+- **Removed** Matilda I RN — 217C Sumang Walk #01-212, North East 823217
+- **Removed** Punggol Cresails RN — 209B Punggol Place #01 - 1288, North East 822209
+- **Removed** Compassvale Ancilla RC — 279B Sengkang East Ave #01-545, North East 542279
+- **Removed** Compassvale Beacon RC — 211C Compassvale Lane #01-218, North East 543211
+- **Removed** Compassvale Helm RN — 274A Compassvale Bow #01-533, North East 541274
+- **Removed** Rivervale Arc RC — 180C Rivervale Cres #01-367, North East 543180
+- **Removed** Compassvale Cape RN — 286C Compassvale Cres #01-103, North East 543286
+- **Removed** Sengkang West Zone 'A' RN — 303B Anchorvale Link #01-92, North East 542303
+- **Removed** Sengkang West Zone 'K' RN — 326C Anchorvole Road #01-280, North East 543326
+- **Removed** Sengkang West Zone E RN — 351 Anchorvale Road #01 - 06, North East 540351
+- **Removed** Buangkok CC — 70 Compassvale Bow #01-25, North East 544692
+- **Removed** Tampines Vista RN — 874 Tampines St 84 #01-13, North East 520874
+- **Removed** Tampines Spring RN — 880 Tampines Ave 8 #01-278, North East 520880
+- **Removed** Tampines Green Meadows RN — 519D Tampines Central 8 #01-87, North East 524519
+- **Removed** Tampines North SunPlaza RN — 418 Tampines St 41 #01-72, North East 520418
+- **Removed** Tampines East Zone 1 RN — 209 Tampines St 21 #01-1339, North East 520209
+- **Removed** Tampines East Zone 2 RN — 216 Tampines St 23 #01-37, North East 520216
+- **Removed** Tampines East Zone 4 RN — 257 Tampines St 21 #01-208, North East 520257
+- **Removed** Tampines East Zone 5 RN — 270 Tampines St 21 #01-165, North East 520270
+- **Removed** Tampines East Zone 6 RN — 230B Tampines Street 24 #01-21, North East 525230
+- **Removed** Tampines East Zone 7 RN — 387 Tampines St 32 #01-87, North East 520387
+- **Removed** Tampines East Zone 8 RN — 364 Tampines Street 34 #01-133, North East 520364
+- **Removed** Tampines North Zone '3' RN — 430 Tampines St 41 #01-525, North East 520430
+- **Removed** Tampines North Zone '4' RN — 450 Tampines St 42,#01-98, North East 520450
+- **Removed** Tampines North Zone '7' RN — 498M Tampines St 45 #01-498, North East 529498
+- **Removed** Tampines North Zone '5' RN — 480 Tampines St 44 #01-257, North East 520480
+- **Removed** Tampines North Zone '6' RN — 494B Tampines Ave 9 #01-458, North East 520494
+- **Removed** Tampines-Changkat Zone '3' RN — 111 Tampines St 11 #01-217, North East 521111
+- **Removed** Tampines-Changkat Zone '4' RN — 285 Tampines St 22 #01-225, North East 520285
+- **Removed** Tampines GreenCourt RN — 633B Tampines North Drive 2 #02-219, North East 522633
+- **Removed** Tampines DewFoliage RN — 647 Tampines Street 62 #01-02, North East 520647
+- **Removed** Tampines GreenVerge RN — 623A Tampines Avenue 12 #02-61, North East 521623
+- **Removed** Tampines Greenridges RN — 605C Tampines St 61 #01-340, North East 523605
+- **Removed** Tampines Weaveview RN — 610C Tampines North Drive 1 #01-472, North East 523610
+- **Removed** Pasir Ris Elias CC — 93 Pasir Ris Drive 3, North East 519498
+- **Removed** Pasir Ris Central CC — 536 Pasir Ris Drive 1 #01-286, North East 510536
+- **Removed** Pasir Ris East CC — 1 Pasir Ris Drive 4, Singapore 519457, North East 519457
+- **Removed** One Punggol CC — 1 Punggol Drive #04-05, North East 828629
+- **Removed** Punggol 21 CC — 80 Punggol Field #01-01, North East 828815
+- **Removed** Punggol West CC — Blk 259C Punggol Field #01-47, North East 823259
+- **Removed** Anchorvale CC — 59 Anchorvale Road, North East 544965
+- **Removed** Rivervale CC — 2 Rivervale Close #01-01, North East 544583
+- **Removed** Sengkang CC — 2 Sengkang Square #01-01, North East 545025
+- **Removed** Tampines Central CC — 1 Tampines Walk #04-04, Our Tampines Hub, North East 528523
+- **Removed** Tampines Changkat CC — 13 Tampines St 11, North East 529453
+- **Removed** Tampines East CC — 10, Tampines St 23, North East 529341
+- **Removed** Tampines North CC — 2 Tampines St 41, North East 529204
+- **Removed** Tampines West CC — 5 Tampines Ave 3, North East 529705
+- **Removed** Bukit Panjang Zone '10' RC — 441 Fajar Rd #01-458, North West 670441
+- **Removed** Watten Hub — Bougainvillea Park, 500 Dunearn Rd, North West 289618
+- **Removed** Toh Yi RN — 4 Toh Yi Dr #01-217, North West 590004
+- **Removed** Bukit Timah Zone 5 RC — 319 Clementi Ave 4 #01-85, North West 120319
+- **Removed** Clementi Meadows RN — 306 Clementi Ave 4 #01-465, North West 120306
+- **Removed** Gateway View RN — 204 Clementi Ave 6 #01-09, North West 120204
+- **Removed** Trivelis RN — 311B Clementi Ave 4 #01-17, North West 122311
+- **Removed** Ridges RN — 312A Clementi Ave 4 #01-171, North West 121312
+- **Removed** Ghim Moh Gardens RN — 17 Ghim Moh Rd #01-75, North West 270017
+- **Removed** Zhenghua-Segar Meadows RN — 456 Segar Rd #01-117, North West 670456
+- **Removed** Zhenghua-Senja View RN — 635B Senja Rd #02-269, North West 672635
+- **Removed** Marsiling Zone '2' RN — 8 Marsiling Dr #01-18, North West 730008
+- **Removed** Marsiling Zone '3' RN — 123 Marsiling Rise #01-98, North West 730123
+- **Removed** Marsiling Zone '7' RN — 206 Marsiling Dr #01-298, North West 730206
+- **Removed** Marsiling Zone '9' RN — 185 Woodlands St 13 #02-671, North West 732185
+- **Removed** Woodgrove Zone '3' RC — 890A Woodlands Drive 50 #01 -277, North West 731890
+- **Removed** Woodgrove Zone '4' RN — 572B Woodlands Ave 1 #01-836, North West 732572
+- **Removed** Chong Pang Zone '1' RC — 108 Yishun Ring Rd #01-301/305, North West 760108
+- **Removed** Chong Pang Zone '5' RC — 157 Yishun St 11 #01-140, North West 760157
+- **Removed** Nee Soon Central Zone '3' RC — 701 Yishun Ave 5 #01-314, North West 760701
+- **Removed** Yishun Grove RN — 671 Yishun Ave 4 #01-02, North West 760671
+- **Removed** Yishun Sunshine RN — 259 Yishun St 22 #01-67, North West 760259
+- **Removed** Jade Dew RN — 455 Yishun St 41 #01-43, North West 760455
+- **Removed** Orchid Vista RN — 431A Yishun Avenue 1 #01-507, North West 761431
+- **Removed** Yishun Floral RC — 440 Yishun Ave 11 #01-466, North West 760440
+- **Removed** Forest Meadow RN — 471A Yishun St 42 #02-309, North West 761471
+- **Removed** Nee Soon South Zone ‘H’ RN — 508B Yishun Avenue 4 #01-52, North West 762508
+- **Removed** Admiralty Zone '9' RN — 693C Woodlands Avenue 6 #01-759, North West 733693
+- **Removed** Canberra Skylife RN — 365A Sembawang Crescent #01-101, North West 751365
+- **Removed** Canberra Zone '8' RN — 362 Sembawang Crescent #01-11, North West 750362
+- **Removed** Canberra NorthWoods RN — 784C Woodlands Rise #01-38, North West 733784
+- **Removed** Canberra Zone 10 RN — 782A Woodlands Crescent #01-311, North West 731782
+- **Removed** Naval Base Forward RN — 462 Sembawang Drive #01-201, North West 750462
+- **Removed** East Canberra Zone 1 RN — 107 Canberra Street #01-567, North West 751107
+- **Removed** Sembawang Central Zone B RN — 510B Wellington Circle #01-77, North West 752510
+- **Removed** Nee Soon Link CC — 413 Yishun Ring Road #01-1887, North West 760413
+- **Removed** Zhenghua CC — 1 Segar Road, North West 677738
+- **Removed** Senja-Cashew CC — 101 Bukit Panjang Road, North West 679910
+- **Removed** Bukit Timah CC — 20 Toh Yi Drive, North West 596569
+- **Removed** Ulu Pandan CC — 170 Ghim Moh Road #01-01, North West 279621
+- **Removed** Bukit Panjang CC — 8 Pending Road, North West 678295
+- **Removed** Marsiling CC — 2 Marsiling Drive #01-45, North West 730002
+- **Removed** Woodgrove CC — 353 Woodlands Ave 1 #01-753, North West 730353
+- **Removed** Fuchun CC — 1 Woodlands St 31, North West 738581
+- **Removed** Yew Tee CC — 20 Chua Chu Kang St 52 #01-01, North West 689286
+- **Removed** Yew Tee Zone 9 RC — 690A Choa Chu Kang Crescent #01-104, North West 681690
+- **Removed** Yew Tee Zone 10 RC — 639 Choa Chu Kang Street 64 #01-31, North West 680639
+- **Removed** Limbang Park RN — 505 Chua Chu Kang Street 51, #01-191, North West 680505
+- **Removed** Limbang View RN — 549 Chua Chu Kang Street 52, #01-13, North West 680549
+- **Removed** Limbang Green RN — 561 Chua Chu Kang North 6, #01-82, North West 680561
+- **Removed** Stagmont View RN — 753 Chua Chu Kang North 5, #01-213, North West 680753
+- **Removed** Stagmont Park RN — 785 Chua Chu Kang Drive #01-223, North West 680785
+- **Removed** Chong Pang Zone 2 RC — 120 Yishun Ring Road, North West 760120
+- **Removed** Nee Soon Central CC — 1 Northpoint Drive #01-201, North West 768019
+- **Removed** Nee Soon East CC — 1 Yishun Ave 9, North West 768893
+- **Removed** Nee Soon South CC — 30 Yishun St 81, North West 768455
+- **Removed** ACE The Place CC — 120 Woodlands Ave 1, North West 739069
+- **Removed** Canberra CC — 2 Sembawang Crescent, North West 757632
+- **Removed** Sembawang CC — 117B Canberra Crescent #01-370, North West 752117
+- **Removed** Woodlands Galaxy CC — 31 Woodlands Ave 6, North West 738991
+- **Removed** Woodlands CC — 1 Woodlands St 81, North West 738526
+- **Removed** Eunos Zone '1' RN — 609 Bedok Reservoir Rd #01-658, South East 470609
+- **Removed** Eunos Zone '2' RN — 616 Bedok Reservoir Rd #01-1100, South East 470616
+- **Removed** Eunos Zone '3' RN — 627 Bedok Reservoir Rd #01-1608, South East 470627
+- **Removed** Kaki Bukit Ville RN — 504 Bedok North St 3 #01-144, South East 460504
+- **Removed** Kaki Bukit Bloom RN — 546 Bedok North St 3 #01-1436, South East 460546
+- **Removed** Kaki Bukit Garden RN — 526 Bedok North Street 3 #01-490, South East 460526
+- **Removed** Kaki Bukit Green RN — 517 Bedok North Ave 2 #01-155, South East 460517
+- **Removed** Kaki Bukit Park RN — 550 Bedok North Ave 1 #01-496/498, South East 460550
+- **Removed** Paya Lebar Zone '2' RC — 101 Hougang Ave 1 #01-1153/1151, South East 530101
+- **Removed** Paya Lebar Zone 7 RN — 132 Lorong Ah Soo #01-412, South East 530132
+- **Removed** Hwi Yoh Garden RC — 123 Serangoon North Ave 1 #01-149, South East 550123
+- **Removed** Boundary Ville RC — 228 Serangoon Ave 4 #01-49, South East 550228
+- **Removed** Hwi Yoh Court RC — 103 Serangoon North Ave 1 #01-757, South East 550103
+- **Removed** Bedok Bunga Merah RC — 37 Bedok South Ave 2 #01-445, South East 460037
+- **Removed** Bedok Orchid RN — 10C Bedok South Ave 2 #01-562, South East 462010
+- **Removed** Fengshan Acacia RN — 187B Bedok North Street 4 #01 -52, South East 462187
+- **Removed** Fengshan Pine RN — 111 Bedok North Rd #01-325, South East 460111
+- **Removed** Fengshan Cedar RN — 93 Bedok North Ave 4 #01-1461, South East 460093
+- **Removed** Kampong Chai Chee Rainbow Ville RN — 430A Bedok North Road #01-421, South East 461430
+- **Removed** Ping Yi Greens RN — 808A Chai Chee Road #01-116, South East 461808
+- **Removed** Ansar RN — 32 Chai Chee Avenue #01-218, South East 461032
+- **Removed** Ping An RN — 61 Chai Chee Rd #01-840, South East 460061
+- **Removed** Ping An Green RN — 43 Chai Chee St #01-70, South East 461043
+- **Removed** Hougang Zone 1 RN — 2 Hougang Ave 3 #01-292, South East 530002
+- **Removed** Hougang Zone 2 RN — 306 Hougang Ave 5 #01-359, South East 530306
+- **Removed** Hougang Zone 3 RN — 332 Hougang Ave 5 #01-222, South East 530332
+- **Removed** Hougang Zone 4 RN — 341 Hougang Ave 7 #01-457, South East 530341
+- **Removed** Hougang Zone 5 RN — 705 Hougang Ave 2 #01-247, South East 530705
+- **Removed** Hougang Zone 6 RN — 836 Hougang Central #01-539, South East 530836
+- **Removed** Balam RN — 31 Balam Rd #01-109, South East 370031
+- **Removed** MacPherson Seasons RN — 82B Circuit Road #01-26, South East 372082
+- **Removed** MacPherson Aljunied Crescent Zone '2' RN — 96 Aljunied Cres #01-481, South East 380096
+- **Removed** MacPherson Zone 'A' RN — 42 Circuit Rd #01-531, South East 370042
+- **Removed** MacPherson Zone 'B' RN — 65 Circuit Rd #01-381, South East 370065
+- **Removed** MacPherson Zone 'E' RN — 90 Pipit Road #01-131, South East 370090
+- **Removed** Braddell Heights Zone 'B' RC — 6 Lor Lew Lian #01-118, South East 531006
+- **Removed** Eunos Village RN — 38A Eunos Road 2 #01-340, South East 401038
+- **Removed** Eunos Crescent RC — 10 Eunos Cres #01-2733, South East 400010
+- **Removed** Ubi Grove RN (new RN Centre) — 358D Ubi Road 3 #01-208, South East 404358
+- **Removed** Marine Terrace Breeze RC — 20 Marine Terrace #01-124, South East 440020
+- **Removed** Old Airport RN — 54 Cassia Cres #01-137, South East 390054
+- **Removed** Punggol CC — 3 Hougang Ave 6, South East 538808
+- **Removed** Eunos CC — 180 Bedok Reservoir Road, South East 479220
+- **Removed** Hougang CC — 35 Hougang Ave 3, South East 538840
+- **Removed** Kaki Bukit CC — 670 Bedok North St 3, South East 469627
+- **Removed** Paya Lebar Kovan CC — Blk 207 Hougang St 21, South East 530207
+- **Removed** Aljunied CC (Void Deck) — Blk 110 Hougang Ave 1 #01-1048, South East 530110
+- **Removed** The Serangoon CC — 10 Serangoon North Ave 2, South East 555877
+- **Removed** Bedok CC — 850 New Upper Changi Road, South East 467352
+- **Removed** Siglap CC — 151 Bedok South Road, South East 460151
+- **Removed** Fengshan CC — 20 Bedok North St 2, South East 469644
+- **Removed** Kampong Chai Chee CC — 11 Bedok North St 1, Heartbeat @Bedok, South East 469662
+- **Removed** Siglap South CC — 6 Palm Road, South East 456441
+- **Removed** Changi Simei CC — 10 Simei St 2, South East 529915
+- **Removed** Braddell Heights CC — 50 Serangoon Ave 2 #01-02, South East 556129
+- **Removed** Geylang Serai CC — 1 Engku Aman Turn #01-01, Wisma Geylang Serai, South East 408528
+- **Removed** Lengkong Tiga RN — 109 Lengkong Tiga #01-273, South East 410109
+- **Removed** Kampong Ubi CC — 10 Jalan Ubi, South East 409075
+- **Removed** MacPherson CC — 400 Paya Lebar Way, South East 379131
+- **Removed** Marine Drive Garden RC — 61 Marine Drive, South East 440061
+- **Removed** Joo Chiat CC — 405 Joo Chiat Road, South East 427633
+- **Removed** Katong CC — 51 Kampong Arang Road, South East 438178
+- **Removed** Mountbatten CC — 87 Jalan Satu, South East 390087
+- **Removed** Bukit Batok Zone '1' RN — 116 Bukit Batok West Ave 6 #01-220, South West 650116
+- **Removed** Bukit Batok Zone '2' RN — 104 Bukit Batok Central #01-283, South West 650104
+- **Removed** Bukit Batok Zone '3' RN — 125 Bukit Batok Central #01-389, South West 650125
+- **Removed** Bukit Batok East Zone '7' RN — 210 Bukit Batok St 21 #01-202, South West 650210
+- **Removed** Sunshine RN — 489A Chua Chu Kang Ave 5 #01-193, South West 681489
+- **Removed** Axis Colours RN — 807B Chua Chu Kang Ave 1 #01-530, South West 682807
+- **Removed** Bukit Gombak Sunshine RC — 531 Bukit Batok St 51 #01-122, South West 650531
+- **Removed** Chua Chu Kang Zone '1' RN — 163 Jalan Teck Whye #01-220, South West 680163
+- **Removed** Chua Chu Kang Zone '2' RN — 15 Teck Whye Lane #01-147, South West 680015
+- **Removed** Clementi Spring RN — 359 Clementi Ave 2 #01-301, South West 120359
+- **Removed** Clementi Green RN — 343 Clementi Ave 5 #01-216, South West 120343
+- **Removed** Jurong Central Zone 'A' RN — 475 Jurong West St 41 #01-384, South West 640475
+- **Removed** Jurong Central Zone 'D' RN — 340 Jurong East Ave 1 #01-1662, South West 600340
+- **Removed** Jurong Central Zone 'F' RN — 320 Jurong East St 31 #01-80, South West 600320
+- **Removed** Yuhua Zone '1' RN — 260 Jurong East St 24 #01-547, South West 600260
+- **Removed** Yuhua Zone '2' RC — 240 Jurong East St 21 #01-368, South West 600240
+- **Removed** Yuhua Zone '7' RN — 107 Jurong East St 13 #01-240, South West 600107
+- **Removed** Yuhua Zone '10' @ TGV RN — 282 Toh Guan Rd #01-231, South West 600282
+- **Removed** West Ridges RN — 441C Bukit Batok West Ave 8 #01- 923, South West 653441
+- **Removed** West Rock West Quarry RN — 461A Bukit Batok West Ave 8 #01-706, South West 651461
+- **Removed** Hong Kah North Zone '1' RN — 419 Bukit Batok West Ave 2 #01-213, South West 650419
+- **Removed** West Plains Le Quest RN — 464A Bukit Batok West Ave 8 #01-906, South West 651464
+- **Removed** West Edge RN — 439C Bukit Batok West Ave 8 #01 - 945, South West 653439
+- **Removed** Jurong Spring Zone 'E' RC — 527 Jurong West St 52 #01-315, South West 640527
+- **Removed** Jurong Spring Zone 'F' RC — 555 Jurong West St 42 #01-371, South West 640555
+- **Removed** Taman Jurong Zone 'A' RN — 153 Yung Ho Rd #01-45, South West 610153
+- **Removed** Taman Jurong Zone 'C' RN — 359 Yung An Rd #01-79, South West 610359
+- **Removed** Taman Jurong Zone 'D' RN — 353 Kang Ching Rd #01-39, South West 610353
+- **Removed** Taman Jurong Zone 'E' RN — 337B Tah Ching Rd #51-01, South West 612337
+- **Removed** Taman Jurong Zone 'F' RN — 175B Yung Kuang Rd #01-11324, South West 612175
+- **Removed** Taman Jurong Zone 'G' RN — 138B Yuan Ching Rd #01-121, South West 612138
+- **Removed** Boon Lay Meadow-Grove RN — 183A Boon Lay Dr #01-712, South West 641183
+- **Removed** Boon Lay Zone 'C' RN — 260 Boon Lay Dr #01-527, South West 640260
+- **Removed** Boon Lay Zone 'D' RN — 190 Boon Lay Dr #01-224, South West 640190
+- **Removed** Nanyang Zone '3' RC — 726 Jurong West Ave 5 #01-232, South West 640726
+- **Removed** Nanyang Zone '6' RN — 705 Jurong West St 71 #01-78, South West 640705
+- **Removed** Teban Place RN — 20 Teban Gardens Rd #01-107, South West 600020
+- **Removed** Ayer Rajah CC — 150 Pandan Gardens, South West 609335
+- **Removed** Hillview CC — 1 Hillview Rise #01-01, South West 667970
+- **Removed** Chua Chu Kang CC — 35 Teck Whye Ave, South West 688892
+- **Removed** Brickland CC — 811A Chua Chu Kang Avenue 7 #01-657, South West 681811
+- **Removed** Tengah CC — No. 119 Plantation Crescent, South West 690119
+- **Removed** Keat Hong CC — 2 Chua Chu Kang Loop #01-01, South West 689687
+- **Removed** Bukit Batok East CC — 23 Bukit Batok East Ave 4, South West 659841
+- **Removed** Jurong Green CC — 6 Jurong West Ave 1, South West 649520
+- **Removed** Yuhua CC — 90 Boon Lay Way, South West 609958
+- **Removed** Hong Kah North CC — 30 Bukit Batok St 31, South West 659440
+- **Removed** Nanyang CC — 60 Jurong West St 91, South West 649040
+- **Removed** Jurong Spring CC — 8 Jurong West St 52, South West 649296
+- **Removed** Gek Poh Ville CC — Blk 760 Jurong West St 74 #01-08, South West 640760
+- **Removed** Boon Lay CC — 10 Boon Lay Place, South West 649882
+- **Removed** The Frontier CC — 60 Jurong West Central 3 #01-01, South West 648346
+- **Removed** Taman Jurong CC — 1 Yung Sheng Rd, South West 618495
+- **Removed** West Coast CC — 2 Clementi West St 2, South West 129605
+
 ## 2026-10-20
 
 - No changes.
