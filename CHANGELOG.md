@@ -2,6 +2,10 @@
 
 Data changes to the community haze shelter list (`data/shelters.json`).
 
+## 2026-10-22
+
+- No changes.
+
 ## 2026-10-21
 
 - **Removed** Ang Mo Kio-Hougang Pinetree RN — 572 Hougang St 51 #01-31, Central 530572
