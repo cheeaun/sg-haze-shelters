@@ -2,6 +2,10 @@
 
 Data changes to the community haze shelter list (`data/shelters.json`).
 
+## 2026-10-31
+
+- No changes.
+
 ## 2026-10-30
 
 - No changes.
